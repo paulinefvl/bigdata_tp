@@ -1,0 +1,801 @@
+order_id,cart_id,user_id,username,product_id,product_title,category,brand,quantity,unit_price,line_total,discount_percentage,discounted_line_total,cart_total,cart_discounted_total,order_date
+CART-00001,1,1,emilys,162,Blue Frock,tops,,4,29.99,119.96,12.13,105.41,13037.88,11510.81,2025-03-02
+CART-00001,1,1,emilys,113,Generic Motorcycle,motorcycle,Generic Motors,3,3999.99,11999.97,12.1,10547.97,13037.88,11510.81,2025-06-13
+CART-00001,1,1,emilys,122,iPhone 6,smartphones,Apple,3,299.99,899.97,6.69,839.76,13037.88,11510.81,2025-09-15
+CART-00001,1,1,emilys,138,Baseball Ball,sports-accessories,,2,8.99,17.98,1.71,17.67,13037.88,11510.81,2025-09-20
+CART-00002,2,2,michaelw,86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,5,19.99,99.94999999999999,6.83,93.12,139.93,125.7,2025-11-28
+CART-00002,2,2,michaelw,104,Apple iPhone Charger,mobile-accessories,Apple,2,19.99,39.98,18.52,32.58,139.93,125.7,2025-02-22
+CART-00003,3,3,sophiab,24,Fish Steak,groceries,,1,14.99,14.99,4.23,14.36,1794.85,1625.77,2025-04-25
+CART-00003,3,3,sophiab,123,iPhone 13 Pro,smartphones,Apple,1,1099.99,1099.99,9.37,996.92,1794.85,1625.77,2025-11-04
+CART-00003,3,3,sophiab,129,Realme X,smartphones,Realme,1,299.99,299.99,6.95,279.14,1794.85,1625.77,2025-11-15
+CART-00003,3,3,sophiab,86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,5,19.99,99.94999999999999,6.83,93.12,1794.85,1625.77,2025-10-12
+CART-00003,3,3,sophiab,8,Dior J'adore,fragrances,Dior,2,89.99,179.98,14.72,153.49,1794.85,1625.77,2025-08-04
+CART-00003,3,3,sophiab,157,Party Glasses,sunglasses,Fashion Fun,5,19.99,99.94999999999999,11.22,88.74,1794.85,1625.77,2025-10-21
+CART-00004,4,4,jamesd,92,Sports Sneakers Off White Red,mens-shoes,Off White,3,109.99,329.96999999999997,0.04,329.84,689.93,636.81,2025-10-08
+CART-00004,4,4,jamesd,8,Dior J'adore,fragrances,Dior,4,89.99,359.96,14.72,306.97,689.93,636.81,2025-09-09
+CART-00005,5,5,emmaj,161,Samsung Galaxy Tab White,tablets,Samsung,4,349.99,1399.96,18.2,1145.17,1467.88,1205.8,2025-10-28
+CART-00005,5,5,emmaj,39,Soft Drinks,groceries,,4,1.99,7.96,17.48,6.57,1467.88,1205.8,2025-08-14
+CART-00005,5,5,emmaj,3,Powder Canister,beauty,Velvet Touch,4,14.99,59.96,9.84,54.06,1467.88,1205.8,2025-05-03
+CART-00006,6,6,oliviaw,192,Rolex Datejust Women,womens-watches,Rolex,5,10999.99,54999.95,15.94,46232.96,55453.86,46641.06,2025-01-02
+CART-00006,6,6,oliviaw,130,Realme XT,smartphones,Realme,1,349.99,349.99,11.51,309.71,55453.86,46641.06,2025-11-11
+CART-00006,6,6,oliviaw,155,Classic Sun Glasses,sunglasses,Fashion Shades,4,24.99,99.96,4.94,95.02,55453.86,46641.06,2025-02-11
+CART-00006,6,6,oliviaw,42,Water,groceries,,4,0.99,3.96,14.92,3.37,55453.86,46641.06,2025-02-26
+CART-00007,7,7,alexanderj,56,Electric Stove,kitchen-accessories,,1,49.99,49.99,14.04,42.97,1229.86,1103.65,2025-05-28
+CART-00007,7,7,alexanderj,136,Vivo X21,smartphones,Vivo,1,499.99,499.99,17.41,412.94,1229.86,1103.65,2025-02-20
+CART-00007,7,7,alexanderj,9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,2,69.99,139.98,0.62,139.11,1229.86,1103.65,2025-08-19
+CART-00007,7,7,alexanderj,120,Vaseline Men Body and Face Lotion,skin-care,Vaseline,4,9.99,39.96,13.39,34.61,1229.86,1103.65,2025-01-06
+CART-00007,7,7,alexanderj,56,Electric Stove,kitchen-accessories,,1,49.99,49.99,14.04,42.97,1229.86,1103.65,2025-12-17
+CART-00007,7,7,alexanderj,90,Puma Future Rider Trainers,mens-shoes,Puma,5,89.99,449.95,4.2,431.05,1229.86,1103.65,2025-09-09
+CART-00008,8,8,avat,18,Cat Food,groceries,,2,8.99,17.98,9.58,16.26,6337.83,5771.32,2025-12-14
+CART-00008,8,8,avat,50,Black Whisk,kitchen-accessories,,3,9.99,29.97,10.24,26.9,6337.83,5771.32,2025-06-10
+CART-00008,8,8,avat,162,Blue Frock,tops,,4,29.99,119.96,12.13,105.41,6337.83,5771.32,2025-04-18
+CART-00008,8,8,avat,11,Annibale Colombo Bed,furniture,Annibale Colombo,3,1899.99,5699.97,8.57,5211.48,6337.83,5771.32,2025-07-23
+CART-00008,8,8,avat,108,iPhone 12 Silicone Case with MagSafe Plum,mobile-accessories,Apple,4,29.99,119.96,13.85,103.35,6337.83,5771.32,2025-05-09
+CART-00008,8,8,avat,106,Apple Watch Series 4 Gold,mobile-accessories,Apple,1,349.99,349.99,12.02,307.92,6337.83,5771.32,2025-06-28
+CART-00009,9,9,ethanm,1,Essence Mascara Lash Princess,beauty,Essence,3,9.99,29.97,10.48,26.83,29709.9,27993.46,2025-07-02
+CART-00009,9,9,ethanm,98,Rolex Submariner Watch,mens-watches,Rolex,2,13999.99,27999.98,5.05,26585.98,29709.9,27993.46,2025-07-12
+CART-00009,9,9,ethanm,132,Samsung Galaxy S8,smartphones,Samsung,3,499.99,1499.97,19.45,1208.23,29709.9,27993.46,2025-09-20
+CART-00009,9,9,ethanm,90,Puma Future Rider Trainers,mens-shoes,Puma,2,89.99,179.98,4.2,172.42,29709.9,27993.46,2025-11-23
+CART-00010,10,10,isabellad,41,Tissue Paper Box,groceries,,1,2.49,2.49,13.28,2.16,152.44,131.34,2025-02-09
+CART-00010,10,10,isabellad,108,iPhone 12 Silicone Case with MagSafe Plum,mobile-accessories,Apple,5,29.99,149.95,13.85,129.18,152.44,131.34,2025-06-24
+CART-00011,11,11,liamg,115,MotoGP CI.H1,motorcycle,MotoGP,4,14999.99,59999.96,6.92,55847.96,61831.75,57397.84,2025-02-15
+CART-00011,11,11,liamg,101,Apple AirPods Max Silver,mobile-accessories,Apple,2,549.99,1099.98,13.67,949.61,61831.75,57397.84,2025-10-13
+CART-00011,11,11,liamg,55,Egg Slicer,kitchen-accessories,,4,6.99,27.96,14.76,23.83,61831.75,57397.84,2025-10-03
+CART-00011,11,11,liamg,25,Green Bell Pepper,groceries,,3,1.29,3.87,0.16,3.86,61831.75,57397.84,2025-05-30
+CART-00011,11,11,liamg,161,Samsung Galaxy Tab White,tablets,Samsung,2,349.99,699.98,18.2,572.58,61831.75,57397.84,2025-05-28
+CART-00012,12,12,miar,117,Sportbike Motorcycle,motorcycle,SpeedMaster,1,7499.99,7499.99,11.58,6631.49,37767.32,35410.79,2025-08-23
+CART-00012,12,12,miar,28,Ice Cream,groceries,,5,5.49,27.450000000000003,8.69,25.06,37767.32,35410.79,2025-03-14
+CART-00012,12,12,miar,98,Rolex Submariner Watch,mens-watches,Rolex,2,13999.99,27999.98,5.05,26585.98,37767.32,35410.79,2025-11-27
+CART-00012,12,12,miar,8,Dior J'adore,fragrances,Dior,1,89.99,89.99,14.72,76.74,37767.32,35410.79,2025-12-27
+CART-00012,12,12,miar,162,Blue Frock,tops,,5,29.99,149.95,12.13,131.76,37767.32,35410.79,2025-10-23
+CART-00012,12,12,miar,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,4,499.99,1999.96,2.01,1959.76,37767.32,35410.79,2025-06-08
+CART-00013,13,13,noahh,35,Potatoes,groceries,,2,2.29,4.58,5.38,4.33,16.54,14.97,2025-01-13
+CART-00013,13,13,noahh,23,Eggs,groceries,,4,2.99,11.96,11.05,10.64,16.54,14.97,2025-12-30
+CART-00014,14,14,charlottem,44,Family Tree Photo Frame,home-decoration,,4,29.99,119.96,14.87,102.12,209.9,184.59,2025-07-08
+CART-00014,14,14,charlottem,68,Pan,kitchen-accessories,,1,24.99,24.99,3.0,24.24,209.9,184.59,2025-07-06
+CART-00014,14,14,charlottem,65,Lunch Box,kitchen-accessories,,5,12.99,64.95,10.34,58.23,209.9,184.59,2025-08-25
+CART-00015,15,15,williamg,61,Hand Blender,kitchen-accessories,,2,34.99,69.98,17.02,58.07,249.95,214.68,2025-08-05
+CART-00015,15,15,williamg,105,Apple MagSafe Battery Pack,mobile-accessories,Apple,1,99.99,99.99,17.17,82.82,249.95,214.68,2025-02-16
+CART-00015,15,15,williamg,141,Basketball Rim,sports-accessories,,2,39.99,79.98,7.74,73.79,249.95,214.68,2025-07-24
+CART-00016,16,16,averyp,20,Cooking Oil,groceries,,5,4.99,24.950000000000003,9.33,22.62,384.92,364.7,2025-10-27
+CART-00016,16,16,averyp,91,Sports Sneakers Off White & Red,mens-shoes,Off White,3,119.99,359.96999999999997,4.97,342.08,384.92,364.7,2025-10-11
+CART-00017,17,17,evelyns,123,iPhone 13 Pro,smartphones,Apple,5,1099.99,5499.95,9.37,4984.6,5531.34,5014.94,2025-09-13
+CART-00017,17,17,evelyns,137,American Football,sports-accessories,,1,19.99,19.99,4.93,19.0,5531.34,5014.94,2025-03-01
+CART-00017,17,17,evelyns,25,Green Bell Pepper,groceries,,5,1.29,6.45,0.16,6.44,5531.34,5014.94,2025-08-06
+CART-00017,17,17,evelyns,26,Green Chili Pepper,groceries,,5,0.99,4.95,1.0,4.9,5531.34,5014.94,2025-09-17
+CART-00018,18,18,logant,169,Dodge Hornet GT Plus,vehicle,Dodge,5,24999.99,124999.95000000001,2.63,121712.45,128999.9,124978.81,2025-11-04
+CART-00018,18,18,logant,193,Watch Gold for Women,womens-watches,Fashion Gold,5,799.99,3999.95,18.34,3266.36,128999.9,124978.81,2025-09-09
+CART-00019,19,19,abigailr,22,Dog Food,groceries,,3,10.99,32.97,10.27,29.58,22142.88,21308.13,2025-07-23
+CART-00019,19,19,abigailr,56,Electric Stove,kitchen-accessories,,1,49.99,49.99,14.04,42.97,22142.88,21308.13,2025-09-26
+CART-00019,19,19,abigailr,97,Rolex Datejust,mens-watches,Rolex,2,10999.99,21999.98,3.73,21179.38,22142.88,21308.13,2025-05-13
+CART-00019,19,19,abigailr,71,Silver Pot With Glass Cap,kitchen-accessories,,1,39.99,39.99,5.7,37.71,22142.88,21308.13,2025-08-04
+CART-00019,19,19,abigailr,69,Plate,kitchen-accessories,,5,3.99,19.950000000000003,7.31,18.49,22142.88,21308.13,2025-10-16
+CART-00020,20,20,jacksone,123,iPhone 13 Pro,smartphones,Apple,4,1099.99,4399.96,9.37,3987.68,4711.88,4251.41,2025-09-03
+CART-00020,20,20,jacksone,36,Protein Powder,groceries,,3,19.99,59.97,7.59,55.42,4711.88,4251.41,2025-09-20
+CART-00020,20,20,jacksone,146,Feather Shuttlecock,sports-accessories,,2,5.99,11.98,2.95,11.63,4711.88,4251.41,2025-09-23
+CART-00020,20,20,jacksone,89,Nike Baseball Cleats,mens-shoes,Nike,3,79.99,239.96999999999997,18.04,196.68,4711.88,4251.41,2025-01-13
+CART-00021,21,21,madisonc,79,Asus Zenbook Pro Dual Screen Laptop,laptops,Asus,1,1799.99,1799.99,11.14,1599.47,12939.94,10966.03,2025-10-22
+CART-00021,21,21,madisonc,164,Gray Dress,tops,,4,34.99,139.96,14.28,119.97,12939.94,10966.03,2025-04-25
+CART-00021,21,21,madisonc,192,Rolex Datejust Women,womens-watches,Rolex,1,10999.99,10999.99,15.94,9246.59,12939.94,10966.03,2025-03-08
+CART-00022,22,22,elijahs,16,Apple,groceries,,4,1.99,7.96,12.62,6.96,307.92,296.47,2025-01-26
+CART-00022,22,22,elijahs,92,Sports Sneakers Off White Red,mens-shoes,Off White,2,109.99,219.98,0.04,219.89,307.92,296.47,2025-12-27
+CART-00022,22,22,elijahs,166,Tartan Dress,tops,,2,39.99,79.98,12.95,69.62,307.92,296.47,2025-09-25
+CART-00023,23,23,chloem,127,Oppo K1,smartphones,Oppo,5,299.99,1499.95,18.29,1225.61,2499.91,2123.87,2025-12-10
+CART-00023,23,23,chloem,134,Vivo S1,smartphones,Vivo,4,249.99,999.96,10.17,898.26,2499.91,2123.87,2025-02-22
+CART-00024,24,24,mateon,117,Sportbike Motorcycle,motorcycle,SpeedMaster,4,7499.99,29999.96,11.58,26525.96,30299.94,26780.04,2025-11-15
+CART-00024,24,24,mateon,128,Realme C35,smartphones,Realme,2,149.99,299.98,15.3,254.08,30299.94,26780.04,2025-08-08
+CART-00025,25,25,harpere,32,Milk,groceries,,2,3.49,6.98,13.74,6.02,1228.35,1070.83,2025-08-29
+CART-00025,25,25,harpere,106,Apple Watch Series 4 Gold,mobile-accessories,Apple,3,349.99,1049.97,12.02,923.76,1228.35,1070.83,2025-03-14
+CART-00025,25,25,harpere,35,Potatoes,groceries,,5,2.29,11.45,5.38,10.83,1228.35,1070.83,2025-09-04
+CART-00025,25,25,harpere,110,Selfie Lamp with iPhone,mobile-accessories,GadgetMaster,4,14.99,59.96,19.4,48.33,1228.35,1070.83,2025-04-28
+CART-00025,25,25,harpere,103,Apple HomePod Mini Cosmic Grey,mobile-accessories,Apple,1,99.99,99.99,18.1,81.89,1228.35,1070.83,2025-03-04
+CART-00026,26,26,evelyng,122,iPhone 6,smartphones,Apple,3,299.99,899.97,6.69,839.76,1111.84,1021.64,2025-11-17
+CART-00026,26,26,evelyng,63,Kitchen Sieve,kitchen-accessories,,4,7.99,31.96,18.91,25.92,1111.84,1021.64,2025-12-25
+CART-00026,26,26,evelyng,108,iPhone 12 Silicone Case with MagSafe Plum,mobile-accessories,Apple,4,29.99,119.96,13.85,103.35,1111.84,1021.64,2025-08-22
+CART-00026,26,26,evelyng,153,Volleyball,sports-accessories,,5,11.99,59.95,12.25,52.61,1111.84,1021.64,2025-12-12
+CART-00027,27,27,danielc,192,Rolex Datejust Women,womens-watches,Rolex,4,10999.99,43999.96,15.94,36986.37,111014.85,100496.36,2025-08-29
+CART-00027,27,27,danielc,97,Rolex Datejust,mens-watches,Rolex,5,10999.99,54999.95,3.73,52948.45,111014.85,100496.36,2025-10-07
+CART-00027,27,27,danielc,20,Cooking Oil,groceries,,3,4.99,14.97,9.33,13.57,111014.85,100496.36,2025-05-09
+CART-00027,27,27,danielc,113,Generic Motorcycle,motorcycle,Generic Motors,3,3999.99,11999.97,12.1,10547.97,111014.85,100496.36,2025-10-14
+CART-00028,28,28,lilyb,182,Green Crystal Earring,womens-jewellery,,5,29.99,149.95,15.24,127.1,5944.77,5531.37,2025-07-25
+CART-00028,28,28,lilyb,64,Knife,kitchen-accessories,,2,14.99,29.98,18.86,24.33,5944.77,5531.37,2025-12-09
+CART-00028,28,28,lilyb,46,Plant Pot,home-decoration,,3,14.99,44.97,6.84,41.89,5944.77,5531.37,2025-06-07
+CART-00028,28,28,lilyb,185,Black & Brown Slipper,womens-shoes,Comfort Trends,5,19.99,99.94999999999999,3.33,96.62,5944.77,5531.37,2025-10-08
+CART-00028,28,28,lilyb,175,White Faux Leather Backpack,womens-bags,Urban Chic,3,39.99,119.97,15.2,101.73,5944.77,5531.37,2025-11-28
+CART-00028,28,28,lilyb,81,Lenovo Yoga 920,laptops,Lenovo,5,1099.99,5499.95,6.55,5139.7,5944.77,5531.37,2025-09-14
+CART-00029,29,29,henryh,174,Prada Women Bag,womens-bags,Prada,3,599.99,1799.97,14.09,1546.35,2359.84,2077.88,2025-12-24
+CART-00029,29,29,henryh,102,Apple Airpower Wireless Charger,mobile-accessories,Apple,5,79.99,399.95,4.48,382.03,2359.84,2077.88,2025-09-03
+CART-00029,29,29,henryh,48,Bamboo Spatula,kitchen-accessories,,5,7.99,39.95,2.84,38.82,2359.84,2077.88,2025-07-25
+CART-00029,29,29,henryh,141,Basketball Rim,sports-accessories,,3,39.99,119.97,7.74,110.68,2359.84,2077.88,2025-08-10
+CART-00030,30,30,addisonw,143,Cricket Bat,sports-accessories,,1,29.99,29.99,3.29,29.0,186110.85,155507.16,2025-04-14
+CART-00030,30,30,addisonw,135,Vivo V9,smartphones,Vivo,2,299.99,599.98,17.67,493.96,186110.85,155507.16,2025-05-31
+CART-00030,30,30,addisonw,126,Oppo F19 Pro Plus,smartphones,Oppo,1,399.99,399.99,18.64,325.43,186110.85,155507.16,2025-05-18
+CART-00030,30,30,addisonw,77,Yellow Peeler,kitchen-accessories,,1,5.99,5.99,12.48,5.24,186110.85,155507.16,2025-01-05
+CART-00030,30,30,addisonw,3,Powder Canister,beauty,Velvet Touch,5,14.99,74.95,9.84,67.57,186110.85,155507.16,2025-01-17
+CART-00030,30,30,addisonw,170,Durango SXT RWD,vehicle,Dodge,5,36999.99,184999.94999999998,16.44,154585.96,186110.85,155507.16,2025-03-18
+CART-00031,31,31,gabriela,2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,2,19.99,39.98,18.19,32.71,1268.88,1111.0,2025-12-02
+CART-00031,31,31,gabriela,16,Apple,groceries,,1,1.99,1.99,12.62,1.74,1268.88,1111.0,2025-11-02
+CART-00031,31,31,gabriela,54,Citrus Squeezer Yellow,kitchen-accessories,,3,8.99,26.97,12.1,23.71,1268.88,1111.0,2025-08-23
+CART-00031,31,31,gabriela,187,Golden Shoes Woman,womens-shoes,Fashion Diva,3,49.99,149.97,13.93,129.08,1268.88,1111.0,2025-09-25
+CART-00031,31,31,gabriela,106,Apple Watch Series 4 Gold,mobile-accessories,Apple,3,349.99,1049.97,12.02,923.76,1268.88,1111.0,2025-09-08
+CART-00032,32,32,natalieh,21,Cucumber,groceries,,5,1.49,7.45,0.16,7.44,187.44,153.2,2025-07-04
+CART-00032,32,32,natalieh,181,Marni Red & Black Suit,womens-dresses,,1,179.99,179.99,19.02,145.76,187.44,153.2,2025-04-13
+CART-00033,33,33,carterb,175,White Faux Leather Backpack,womens-bags,Urban Chic,1,39.99,39.99,15.2,33.91,129057.77,125461.58,2025-05-14
+CART-00033,33,33,carterb,127,Oppo K1,smartphones,Oppo,4,299.99,1199.96,18.29,980.49,129057.77,125461.58,2025-12-21
+CART-00033,33,33,carterb,38,Rice,groceries,,3,5.99,17.97,9.29,16.3,129057.77,125461.58,2025-09-06
+CART-00033,33,33,carterb,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,5,499.99,2499.95,2.01,2449.7,129057.77,125461.58,2025-08-27
+CART-00033,33,33,carterb,43,Decoration Swing,home-decoration,,5,59.99,299.95,10.41,268.73,129057.77,125461.58,2025-09-19
+CART-00033,33,33,carterb,169,Dodge Hornet GT Plus,vehicle,Dodge,5,24999.99,124999.95000000001,2.63,121712.45,129057.77,125461.58,2025-09-12
+CART-00034,34,34,sofiam,136,Vivo X21,smartphones,Vivo,2,499.99,999.98,17.41,825.88,1479.92,1240.78,2025-08-11
+CART-00034,34,34,sofiam,100,Apple Airpods,mobile-accessories,Apple,3,129.99,389.97,15.54,329.37,1479.92,1240.78,2025-10-13
+CART-00034,34,34,sofiam,154,Black Sun Glasses,sunglasses,Fashion Shades,3,29.99,89.97,4.94,85.53,1479.92,1240.78,2025-12-06
+CART-00035,35,35,jackw,69,Plate,kitchen-accessories,,2,3.99,7.98,7.31,7.4,618.86,507.21,2025-01-18
+CART-00035,35,35,jackw,54,Citrus Squeezer Yellow,kitchen-accessories,,1,8.99,8.99,12.1,7.9,618.86,507.21,2025-05-29
+CART-00035,35,35,jackw,181,Marni Red & Black Suit,womens-dresses,,3,179.99,539.97,19.02,437.27,618.86,507.21,2025-06-12
+CART-00035,35,35,jackw,55,Egg Slicer,kitchen-accessories,,4,6.99,27.96,14.76,23.83,618.86,507.21,2025-08-23
+CART-00035,35,35,jackw,38,Rice,groceries,,3,5.99,17.97,9.29,16.3,618.86,507.21,2025-02-20
+CART-00035,35,35,jackw,67,Mug Tree Stand,kitchen-accessories,,1,15.99,15.99,9.25,14.51,618.86,507.21,2025-08-13
+CART-00036,36,36,harpert,3,Powder Canister,beauty,Velvet Touch,3,14.99,44.97,9.84,40.54,98.91,89.37,2025-12-19
+CART-00036,36,36,harpert,138,Baseball Ball,sports-accessories,,2,8.99,17.98,1.71,17.67,98.91,89.37,2025-09-21
+CART-00036,36,36,harpert,72,Slotted Turner,kitchen-accessories,,4,8.99,35.96,13.35,31.16,98.91,89.37,2025-05-13
+CART-00037,37,37,masonp,141,Basketball Rim,sports-accessories,,3,39.99,119.97,7.74,110.68,129.93,119.32,2025-08-20
+CART-00037,37,37,masonp,41,Tissue Paper Box,groceries,,4,2.49,9.96,13.28,8.64,129.93,119.32,2025-04-04
+CART-00038,38,38,ariar,110,Selfie Lamp with iPhone,mobile-accessories,GadgetMaster,2,14.99,29.98,19.4,24.16,409.95,334.61,2025-08-06
+CART-00038,38,38,ariar,161,Samsung Galaxy Tab White,tablets,Samsung,1,349.99,349.99,18.2,286.29,409.95,334.61,2025-09-03
+CART-00038,38,38,ariar,110,Selfie Lamp with iPhone,mobile-accessories,GadgetMaster,2,14.99,29.98,19.4,24.16,409.95,334.61,2025-02-02
+CART-00039,39,39,lucasg,148,Golf Ball,sports-accessories,,2,9.99,19.98,17.37,16.51,279.96,249.24,2025-11-29
+CART-00039,39,39,lucasg,177,Black Women's Gown,womens-dresses,,2,129.99,259.98,10.48,232.73,279.96,249.24,2025-05-17
+CART-00040,40,40,ellaa,154,Black Sun Glasses,sunglasses,Fashion Shades,3,29.99,89.97,4.94,85.53,263.9,253.64,2025-09-13
+CART-00040,40,40,ellaa,77,Yellow Peeler,kitchen-accessories,,4,5.99,23.96,12.48,20.97,263.9,253.64,2025-07-09
+CART-00040,40,40,ellaa,6,Calvin Klein CK One,fragrances,Calvin Klein,3,49.99,149.97,1.89,147.14,263.9,253.64,2025-02-19
+CART-00041,41,41,evanr,38,Rice,groceries,,5,5.99,29.950000000000003,9.29,27.17,49649.82,46340.09,2025-04-10
+CART-00041,41,41,evanr,97,Rolex Datejust,mens-watches,Rolex,2,10999.99,21999.98,3.73,21179.38,49649.82,46340.09,2025-07-30
+CART-00041,41,41,evanr,139,Baseball Glove,sports-accessories,,4,24.99,99.96,2.9,97.06,49649.82,46340.09,2025-03-16
+CART-00041,41,41,evanr,7,Chanel Coco Noir Eau De,fragrances,Chanel,4,129.99,519.96,16.51,434.11,49649.82,46340.09,2025-08-19
+CART-00041,41,41,evanr,95,Rolex Cellini Date Black Dial,mens-watches,Rolex,3,8999.99,26999.97,8.88,24602.37,49649.82,46340.09,2025-01-08
+CART-00042,42,42,averyc,148,Golf Ball,sports-accessories,,5,9.99,49.95,17.37,41.27,626.84,531.17,2025-02-17
+CART-00042,42,42,averyc,17,Beef Steak,groceries,,4,12.99,51.96,9.61,46.97,626.84,531.17,2025-01-01
+CART-00042,42,42,averyc,179,Corset With Black Skirt,womens-dresses,,2,79.99,159.98,15.06,135.89,626.84,531.17,2025-08-20
+CART-00042,42,42,averyc,164,Gray Dress,tops,,3,34.99,104.97,14.28,89.98,626.84,531.17,2025-10-25
+CART-00042,42,42,averyc,7,Chanel Coco Noir Eau De,fragrances,Chanel,2,129.99,259.98,16.51,217.06,626.84,531.17,2025-10-07
+CART-00043,43,43,benjaminf,88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,5,149.99,749.95,4.12,719.05,1689.88,1521.19,2025-02-12
+CART-00043,43,43,benjaminf,13,Bedside Table African Cherry,furniture,Furniture Co.,2,299.99,599.98,19.09,485.44,1689.88,1521.19,2025-11-09
+CART-00043,43,43,benjaminf,90,Puma Future Rider Trainers,mens-shoes,Puma,3,89.99,269.96999999999997,4.2,258.63,1689.88,1521.19,2025-04-12
+CART-00043,43,43,benjaminf,61,Hand Blender,kitchen-accessories,,2,34.99,69.98,17.02,58.07,1689.88,1521.19,2025-05-07
+CART-00044,44,44,scarlettw,74,Spoon,kitchen-accessories,,4,4.99,19.96,1.53,19.65,47055.84,43550.16,2025-03-03
+CART-00044,44,44,scarlettw,115,MotoGP CI.H1,motorcycle,MotoGP,3,14999.99,44999.97,6.92,41885.97,47055.84,43550.16,2025-11-14
+CART-00044,44,44,scarlettw,142,Cricket Ball,sports-accessories,,1,12.99,12.99,8.63,11.87,47055.84,43550.16,2025-01-23
+CART-00044,44,44,scarlettw,40,Strawberry,groceries,,3,3.99,11.97,1.12,11.84,47055.84,43550.16,2025-10-07
+CART-00044,44,44,scarlettw,132,Samsung Galaxy S8,smartphones,Samsung,4,499.99,1999.96,19.45,1610.97,47055.84,43550.16,2025-05-18
+CART-00044,44,44,scarlettw,22,Dog Food,groceries,,1,10.99,10.99,10.27,9.86,47055.84,43550.16,2025-12-09
+CART-00045,45,45,lincolnk,168,Charger SXT RWD,vehicle,Dodge,4,32999.99,131999.96,8.23,121136.36,132262.29,121385.95,2025-11-22
+CART-00045,45,45,lincolnk,29,Juice,groceries,,3,3.99,11.97,12.06,10.53,132262.29,121385.95,2025-07-02
+CART-00045,45,45,lincolnk,30,Kiwi,groceries,,3,2.49,7.470000000000001,15.22,6.33,132262.29,121385.95,2025-03-21
+CART-00045,45,45,lincolnk,156,Green and Black Glasses,sunglasses,Fashion Shades,4,34.99,139.96,1.01,138.55,132262.29,121385.95,2025-01-03
+CART-00045,45,45,lincolnk,72,Slotted Turner,kitchen-accessories,,2,8.99,17.98,13.35,15.58,132262.29,121385.95,2025-06-10
+CART-00045,45,45,lincolnk,75,Tray,kitchen-accessories,,5,16.99,84.94999999999999,7.48,78.6,132262.29,121385.95,2025-12-07
+CART-00046,46,46,hannahr,21,Cucumber,groceries,,5,1.49,7.45,0.16,7.44,67607.33,56101.67,2025-10-26
+CART-00046,46,46,hannahr,121,iPhone 5s,smartphones,Apple,3,199.99,599.97,12.91,522.51,67607.33,56101.67,2025-10-22
+CART-00046,46,46,hannahr,96,Rolex Cellini Moonphase,mens-watches,Rolex,5,12999.99,64999.95,17.52,53611.96,67607.33,56101.67,2025-09-09
+CART-00046,46,46,hannahr,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,4,499.99,1999.96,2.01,1959.76,67607.33,56101.67,2025-12-20
+CART-00047,47,47,nicholasb,6,Calvin Klein CK One,fragrances,Calvin Klein,3,49.99,149.97,1.89,147.14,50539.87,49199.91,2025-03-11
+CART-00047,47,47,nicholasb,164,Gray Dress,tops,,4,34.99,139.96,14.28,119.97,50539.87,49199.91,2025-10-07
+CART-00047,47,47,nicholasb,169,Dodge Hornet GT Plus,vehicle,Dodge,2,24999.99,49999.98,2.63,48684.98,50539.87,49199.91,2025-04-25
+CART-00047,47,47,nicholasb,92,Sports Sneakers Off White Red,mens-shoes,Off White,2,109.99,219.98,0.04,219.89,50539.87,49199.91,2025-08-31
+CART-00047,47,47,nicholasb,46,Plant Pot,home-decoration,,2,14.99,29.98,6.84,27.93,50539.87,49199.91,2025-10-29
+CART-00048,48,48,lunar,140,Basketball,sports-accessories,,5,14.99,74.95,7.44,69.37,110.91,101.89,2025-03-09
+CART-00048,48,48,lunar,18,Cat Food,groceries,,4,8.99,35.96,9.58,32.52,110.91,101.89,2025-11-03
+CART-00049,49,49,jacobc,184,Tropical Earring,womens-jewellery,,5,19.99,99.94999999999999,0.76,99.19,4208.81,3843.75,2025-12-21
+CART-00049,49,49,jacobc,142,Cricket Ball,sports-accessories,,5,12.99,64.95,8.63,59.34,4208.81,3843.75,2025-09-16
+CART-00049,49,49,jacobc,15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,5,799.99,3999.95,8.8,3647.95,4208.81,3843.75,2025-05-29
+CART-00049,49,49,jacobc,18,Cat Food,groceries,,2,8.99,17.98,9.58,16.26,4208.81,3843.75,2025-02-13
+CART-00049,49,49,jacobc,111,Selfie Stick Monopod,mobile-accessories,SnapTech,2,12.99,25.98,19.12,21.01,4208.81,3843.75,2025-08-02
+CART-00050,50,50,stellah,60,Grater Black,kitchen-accessories,,5,10.99,54.95,3.56,52.99,13144.93,10852.12,2025-12-09
+CART-00050,50,50,stellah,96,Rolex Cellini Moonphase,mens-watches,Rolex,1,12999.99,12999.99,17.52,10722.39,13144.93,10852.12,2025-03-23
+CART-00050,50,50,stellah,8,Dior J'adore,fragrances,Dior,1,89.99,89.99,14.72,76.74,13144.93,10852.12,2025-03-11
+CART-00051,51,51,elib,133,Samsung Galaxy S10,smartphones,Samsung,5,699.99,3499.95,5.59,3304.3,36519.9,32961.03,2025-10-28
+CART-00051,51,51,elib,73,Spice Rack,kitchen-accessories,,1,19.99,19.99,12.09,17.57,36519.9,32961.03,2025-06-06
+CART-00051,51,51,elib,96,Rolex Cellini Moonphase,mens-watches,Rolex,1,12999.99,12999.99,17.52,10722.39,36519.9,32961.03,2025-09-17
+CART-00051,51,51,elib,98,Rolex Submariner Watch,mens-watches,Rolex,1,13999.99,13999.99,5.05,13292.99,36519.9,32961.03,2025-07-30
+CART-00051,51,51,elib,116,Scooter Motorcycle,motorcycle,ScootMaster,2,2999.99,5999.98,6.27,5623.78,36519.9,32961.03,2025-07-19
+CART-00052,52,52,gracep,169,Dodge Hornet GT Plus,vehicle,Dodge,5,24999.99,124999.95000000001,2.63,121712.45,134382.82,130175.28,2025-03-18
+CART-00052,52,52,gracep,194,Women's Wrist Watch,womens-watches,Fashion Co.,2,129.99,259.98,12.6,227.22,134382.82,130175.28,2025-09-24
+CART-00052,52,52,gracep,4,Red Lipstick,beauty,Chic Cosmetics,1,12.99,12.99,12.16,11.41,134382.82,130175.28,2025-04-11
+CART-00052,52,52,gracep,114,Kawasaki Z800,motorcycle,Kawasaki,1,8999.99,8999.99,9.77,8120.69,134382.82,130175.28,2025-07-12
+CART-00052,52,52,gracep,77,Yellow Peeler,kitchen-accessories,,5,5.99,29.950000000000003,12.48,26.21,134382.82,130175.28,2025-01-08
+CART-00052,52,52,gracep,185,Black & Brown Slipper,womens-shoes,Comfort Trends,4,19.99,79.96,3.33,77.3,134382.82,130175.28,2025-02-24
+CART-00053,53,53,lucasgx,159,iPad Mini 2021 Starlight,tablets,Apple,2,499.99,999.98,3.64,963.58,1079.94,1028.19,2025-07-19
+CART-00053,53,53,lucasgx,163,Girl Summer Dress,tops,,4,19.99,79.96,19.2,64.61,1079.94,1028.19,2025-02-07
+CART-00054,54,54,avah,12,Annibale Colombo Sofa,furniture,Annibale Colombo,2,2499.99,4999.98,14.4,4279.98,10999.95,9998.55,2025-01-27
+CART-00054,54,54,avah,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,3,1999.99,5999.97,4.69,5718.57,10999.95,9998.55,2025-06-27
+CART-00055,55,55,owenf,49,Black Aluminium Cup,kitchen-accessories,,3,5.99,17.97,15.65,15.16,42.96,39.92,2025-11-27
+CART-00055,55,55,owenf,84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,1,24.99,24.99,0.94,24.76,42.96,39.92,2025-06-30
+CART-00056,56,56,samanthah,60,Grater Black,kitchen-accessories,,2,10.99,21.98,3.56,21.2,121.97,109.12,2025-01-14
+CART-00056,56,56,samanthah,99,Amazon Echo Plus,mobile-accessories,Amazon,1,99.99,99.99,12.07,87.92,121.97,109.12,2025-01-14
+CART-00057,57,57,nathand,88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,5,149.99,749.95,4.12,719.05,1269.91,1158.21,2025-09-19
+CART-00057,57,57,nathand,100,Apple Airpods,mobile-accessories,Apple,4,129.99,519.96,15.54,439.16,1269.91,1158.21,2025-09-01
+CART-00058,58,58,bellag,174,Prada Women Bag,womens-bags,Prada,2,599.99,1199.98,14.09,1030.9,1212.97,1042.77,2025-06-17
+CART-00058,58,58,bellag,142,Cricket Ball,sports-accessories,,1,12.99,12.99,8.63,11.87,1212.97,1042.77,2025-12-16
+CART-00059,59,59,ethanf,170,Durango SXT RWD,vehicle,Dodge,2,36999.99,73999.98,16.44,61834.38,74029.97,61859.29,2025-06-05
+CART-00059,59,59,ethanf,145,Cricket Wicket,sports-accessories,,1,29.99,29.99,16.93,24.91,74029.97,61859.29,2025-08-19
+CART-00060,60,60,lillians,82,New DELL XPS 13 9300 Laptop,laptops,Dell,5,1499.99,7499.95,11.89,6608.21,7649.92,6748.39,2025-06-16
+CART-00060,60,60,lillians,149,Iron Golf,sports-accessories,,3,49.99,149.97,6.53,140.18,7649.92,6748.39,2025-03-04
+CART-00061,61,61,masonpx,66,Microwave Oven,kitchen-accessories,,4,89.99,359.96,12.13,316.3,642.86,571.58,2025-09-12
+CART-00061,61,61,masonpx,119,Olay Ultra Moisture Shea Butter Body Wash,skin-care,Olay,4,12.99,51.96,16.39,43.44,642.86,571.58,2025-08-27
+CART-00061,61,61,masonpx,107,Beats Flex Wireless Earphones,mobile-accessories,Beats,3,49.99,149.97,5.73,141.38,642.86,571.58,2025-10-20
+CART-00061,61,61,masonpx,166,Tartan Dress,tops,,2,39.99,79.98,12.95,69.62,642.86,571.58,2025-11-13
+CART-00061,61,61,masonpx,42,Water,groceries,,1,0.99,0.99,14.92,0.84,642.86,571.58,2025-03-29
+CART-00062,62,62,leahh,133,Samsung Galaxy S10,smartphones,Samsung,4,699.99,2799.96,5.59,2643.44,2851.92,2691.23,2025-03-20
+CART-00062,62,62,leahh,53,Chopping Board,kitchen-accessories,,4,12.99,51.96,8.03,47.79,2851.92,2691.23,2025-10-30
+CART-00063,63,63,loganl,153,Volleyball,sports-accessories,,1,11.99,11.99,12.25,10.52,511.92,460.04,2025-09-24
+CART-00063,63,63,loganl,179,Corset With Black Skirt,womens-dresses,,2,79.99,159.98,15.06,135.89,511.92,460.04,2025-04-16
+CART-00063,63,63,loganl,129,Realme X,smartphones,Realme,1,299.99,299.99,6.95,279.14,511.92,460.04,2025-08-11
+CART-00063,63,63,loganl,19,Chicken Meat,groceries,,4,9.99,39.96,13.7,34.49,511.92,460.04,2025-11-16
+CART-00064,64,64,averyb,79,Asus Zenbook Pro Dual Screen Laptop,laptops,Asus,3,1799.99,5399.97,11.14,4798.41,6032.81,5389.02,2025-06-22
+CART-00064,64,64,averyb,21,Cucumber,groceries,,2,1.49,2.98,0.16,2.98,6032.81,5389.02,2025-08-23
+CART-00064,64,64,averyb,73,Spice Rack,kitchen-accessories,,4,19.99,79.96,12.09,70.29,6032.81,5389.02,2025-11-03
+CART-00064,64,64,averyb,9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,5,69.99,349.95,0.62,347.78,6032.81,5389.02,2025-04-30
+CART-00064,64,64,averyb,175,White Faux Leather Backpack,womens-bags,Urban Chic,5,39.99,199.95000000000002,15.2,169.56,6032.81,5389.02,2025-12-14
+CART-00065,65,65,calebp,130,Realme XT,smartphones,Realme,4,349.99,1399.96,11.51,1238.82,1717.89,1517.78,2025-12-30
+CART-00065,65,65,calebp,93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,1,89.99,89.99,5.99,84.6,1717.89,1517.78,2025-02-05
+CART-00065,65,65,calebp,175,White Faux Leather Backpack,womens-bags,Urban Chic,5,39.99,199.95000000000002,15.2,169.56,1717.89,1517.78,2025-10-08
+CART-00065,65,65,calebp,87,Men Check Shirt,mens-shirts,Urban Chic,1,27.99,27.99,11.38,24.8,1717.89,1517.78,2025-07-24
+CART-00066,66,66,ariaf,193,Watch Gold for Women,womens-watches,Fashion Gold,2,799.99,1599.98,18.34,1306.54,2295.93,1907.41,2025-01-18
+CART-00066,66,66,ariaf,160,Samsung Galaxy Tab S8 Plus Grey,tablets,Samsung,1,599.99,599.99,13.31,520.13,2295.93,1907.41,2025-04-11
+CART-00066,66,66,ariaf,37,Red Onions,groceries,,3,1.99,5.97,9.9,5.38,2295.93,1907.41,2025-11-28
+CART-00066,66,66,ariaf,178,Corset Leather With Skirt,womens-dresses,,1,89.99,89.99,16.26,75.36,2295.93,1907.41,2025-03-30
+CART-00067,67,67,gabrielh,135,Vivo V9,smartphones,Vivo,1,299.99,299.99,17.67,246.98,443.96,389.6,2025-01-24
+CART-00067,67,67,gabrielh,9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,2,69.99,139.98,0.62,139.11,443.96,389.6,2025-11-28
+CART-00067,67,67,gabrielh,29,Juice,groceries,,1,3.99,3.99,12.06,3.51,443.96,389.6,2025-10-06
+CART-00068,68,68,laylas,65,Lunch Box,kitchen-accessories,,2,12.99,25.98,10.34,23.29,252.89,221.05,2025-01-25
+CART-00068,68,68,laylas,164,Gray Dress,tops,,5,34.99,174.95000000000002,14.28,149.97,252.89,221.05,2025-08-20
+CART-00068,68,68,laylas,53,Chopping Board,kitchen-accessories,,4,12.99,51.96,8.03,47.79,252.89,221.05,2025-11-25
+CART-00069,69,69,christopherw,28,Ice Cream,groceries,,2,5.49,10.98,8.69,10.03,7185.87,6560.55,2025-04-07
+CART-00069,69,69,christopherw,190,IWC Ingenieur Automatic Steel,womens-watches,IWC,1,4999.99,4999.99,9.45,4527.49,7185.87,6560.55,2025-09-05
+CART-00069,69,69,christopherw,183,Green Oval Earring,womens-jewellery,,3,24.99,74.97,15.18,63.59,7185.87,6560.55,2025-12-31
+CART-00069,69,69,christopherw,122,iPhone 6,smartphones,Apple,2,299.99,599.98,6.69,559.84,7185.87,6560.55,2025-12-14
+CART-00069,69,69,christopherw,122,iPhone 6,smartphones,Apple,5,299.99,1499.95,6.69,1399.6,7185.87,6560.55,2025-01-11
+CART-00070,70,70,zoen,161,Samsung Galaxy Tab White,tablets,Samsung,5,349.99,1749.95,18.2,1431.46,3794.83,3295.62,2025-03-08
+CART-00070,70,70,zoen,112,TV Studio Camera Pedestal,mobile-accessories,ProVision,3,499.99,1499.97,8.31,1375.32,3794.83,3295.62,2025-11-27
+CART-00070,70,70,zoen,130,Realme XT,smartphones,Realme,1,349.99,349.99,11.51,309.71,3794.83,3295.62,2025-09-29
+CART-00070,70,70,zoen,149,Iron Golf,sports-accessories,,3,49.99,149.97,6.53,140.18,3794.83,3295.62,2025-04-22
+CART-00070,70,70,zoen,72,Slotted Turner,kitchen-accessories,,5,8.99,44.95,13.35,38.95,3794.83,3295.62,2025-09-22
+CART-00071,71,71,nolanb,133,Samsung Galaxy S10,smartphones,Samsung,4,699.99,2799.96,5.59,2643.44,77905.87,72541.01,2025-03-12
+CART-00071,71,71,nolanb,180,Dress Pea,womens-dresses,,2,49.99,99.98,17.68,82.3,77905.87,72541.01,2025-03-24
+CART-00071,71,71,nolanb,23,Eggs,groceries,,2,2.99,5.98,11.05,5.32,77905.87,72541.01,2025-12-05
+CART-00071,71,71,nolanb,115,MotoGP CI.H1,motorcycle,MotoGP,5,14999.99,74999.95,6.92,69809.95,77905.87,72541.01,2025-04-06
+CART-00072,72,72,victoriam,141,Basketball Rim,sports-accessories,,4,39.99,159.96,7.74,147.58,322.86,291.77,2025-07-19
+CART-00072,72,72,victoriam,46,Plant Pot,home-decoration,,5,14.99,74.95,6.84,69.82,322.86,291.77,2025-05-20
+CART-00072,72,72,victoriam,61,Hand Blender,kitchen-accessories,,2,34.99,69.98,17.02,58.07,322.86,291.77,2025-08-06
+CART-00072,72,72,victoriam,38,Rice,groceries,,3,5.99,17.97,9.29,16.3,322.86,291.77,2025-09-30
+CART-00073,73,73,maxr,79,Asus Zenbook Pro Dual Screen Laptop,laptops,Asus,3,1799.99,5399.97,11.14,4798.41,21807.84,20510.13,2025-08-01
+CART-00073,73,73,maxr,111,Selfie Stick Monopod,mobile-accessories,SnapTech,2,12.99,25.98,19.12,21.01,21807.84,20510.13,2025-02-10
+CART-00073,73,73,maxr,63,Kitchen Sieve,kitchen-accessories,,4,7.99,31.96,18.91,25.92,21807.84,20510.13,2025-07-16
+CART-00073,73,73,maxr,120,Vaseline Men Body and Face Lotion,skin-care,Vaseline,5,9.99,49.95,13.39,43.26,21807.84,20510.13,2025-06-06
+CART-00073,73,73,maxr,129,Realme X,smartphones,Realme,1,299.99,299.99,6.95,279.14,21807.84,20510.13,2025-04-06
+CART-00073,73,73,maxr,191,Rolex Cellini Moonphase,womens-watches,Rolex,1,15999.99,15999.99,4.11,15342.39,21807.84,20510.13,2025-06-26
+CART-00074,74,74,penelopeh,105,Apple MagSafe Battery Pack,mobile-accessories,Apple,1,99.99,99.99,17.17,82.82,1562.41,1379.22,2025-03-31
+CART-00074,74,74,penelopeh,130,Realme XT,smartphones,Realme,4,349.99,1399.96,11.51,1238.82,1562.41,1379.22,2025-05-15
+CART-00074,74,74,penelopeh,41,Tissue Paper Box,groceries,,1,2.49,2.49,13.28,2.16,1562.41,1379.22,2025-08-26
+CART-00074,74,74,penelopeh,36,Protein Powder,groceries,,3,19.99,59.97,7.59,55.42,1562.41,1379.22,2025-09-12
+CART-00075,75,75,ryang,41,Tissue Paper Box,groceries,,1,2.49,2.49,13.28,2.16,346.44,286.02,2025-08-01
+CART-00075,75,75,ryang,127,Oppo K1,smartphones,Oppo,1,299.99,299.99,18.29,245.12,346.44,286.02,2025-05-28
+CART-00075,75,75,ryang,73,Spice Rack,kitchen-accessories,,2,19.99,39.98,12.09,35.15,346.44,286.02,2025-08-28
+CART-00075,75,75,ryang,37,Red Onions,groceries,,2,1.99,3.98,9.9,3.59,346.44,286.02,2025-04-01
+CART-00076,76,76,madelines,108,iPhone 12 Silicone Case with MagSafe Plum,mobile-accessories,Apple,3,29.99,89.97,13.85,77.51,37629.86,36017.72,2025-06-16
+CART-00076,76,76,madelines,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,4,1999.99,7999.96,4.69,7624.76,37629.86,36017.72,2025-09-23
+CART-00076,76,76,madelines,167,300 Touring,vehicle,Chrysler,1,28999.99,28999.99,3.98,27845.79,37629.86,36017.72,2025-09-04
+CART-00076,76,76,madelines,177,Black Women's Gown,womens-dresses,,3,129.99,389.97,10.48,349.1,37629.86,36017.72,2025-08-16
+CART-00076,76,76,madelines,152,Tennis Racket,sports-accessories,,3,49.99,149.97,19.61,120.56,37629.86,36017.72,2025-03-03
+CART-00077,77,77,jonathanp,106,Apple Watch Series 4 Gold,mobile-accessories,Apple,2,349.99,699.98,12.02,615.84,999.95,880.59,2025-09-27
+CART-00077,77,77,jonathanp,178,Corset Leather With Skirt,womens-dresses,,2,89.99,179.98,16.26,150.72,999.95,880.59,2025-09-26
+CART-00077,77,77,jonathanp,91,Sports Sneakers Off White & Red,mens-shoes,Off White,1,119.99,119.99,4.97,114.03,999.95,880.59,2025-05-21
+CART-00078,78,78,eleanort,171,Pacifica Touring,vehicle,Chrysler,4,31999.99,127999.96,14.76,109107.17,128964.87,109890.08,2025-02-18
+CART-00078,78,78,eleanort,120,Vaseline Men Body and Face Lotion,skin-care,Vaseline,3,9.99,29.97,13.39,25.96,128964.87,109890.08,2025-04-20
+CART-00078,78,78,eleanort,181,Marni Red & Black Suit,womens-dresses,,5,179.99,899.95,19.02,728.78,128964.87,109890.08,2025-04-29
+CART-00078,78,78,eleanort,85,Man Plaid Shirt,mens-shirts,Classic Wear,1,34.99,34.99,19.5,28.17,128964.87,109890.08,2025-01-03
+CART-00079,79,79,isaacl,18,Cat Food,groceries,,3,8.99,26.97,9.58,24.39,1575.87,1336.5,2025-02-17
+CART-00079,79,79,isaacl,84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,3,24.99,74.97,0.94,74.27,1575.87,1336.5,2025-08-21
+CART-00079,79,79,isaacl,193,Watch Gold for Women,womens-watches,Fashion Gold,1,799.99,799.99,18.34,653.27,1575.87,1336.5,2025-11-27
+CART-00079,79,79,isaacl,174,Prada Women Bag,womens-bags,Prada,1,599.99,599.99,14.09,515.45,1575.87,1336.5,2025-06-19
+CART-00079,79,79,isaacl,147,Football,sports-accessories,,3,17.99,53.97,5.15,51.19,1575.87,1336.5,2025-07-28
+CART-00079,79,79,isaacl,50,Black Whisk,kitchen-accessories,,2,9.99,19.98,10.24,17.93,1575.87,1336.5,2025-10-07
+CART-00080,80,80,hazelg,41,Tissue Paper Box,groceries,,2,2.49,4.98,13.28,4.32,1504.93,1217.93,2025-12-10
+CART-00080,80,80,hazelg,13,Bedside Table African Cherry,furniture,Furniture Co.,5,299.99,1499.95,19.09,1213.61,1504.93,1217.93,2025-04-04
+CART-00081,81,81,austinh,2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,3,19.99,59.97,18.19,49.06,242.85,217.41,2025-01-14
+CART-00081,81,81,austinh,36,Protein Powder,groceries,,5,19.99,99.94999999999999,7.59,92.36,242.85,217.41,2025-06-30
+CART-00081,81,81,austinh,18,Cat Food,groceries,,2,8.99,17.98,9.58,16.26,242.85,217.41,2025-03-22
+CART-00081,81,81,austinh,53,Chopping Board,kitchen-accessories,,5,12.99,64.95,8.03,59.73,242.85,217.41,2025-06-30
+CART-00082,82,82,lillianb,163,Girl Summer Dress,tops,,1,19.99,19.99,19.2,16.15,1974.84,1674.54,2025-10-15
+CART-00082,82,82,lillianb,46,Plant Pot,home-decoration,,5,14.99,74.95,6.84,69.82,1974.84,1674.54,2025-12-18
+CART-00082,82,82,lillianb,43,Decoration Swing,home-decoration,,3,59.99,179.97,10.41,161.24,1974.84,1674.54,2025-10-21
+CART-00082,82,82,lillianb,107,Beats Flex Wireless Earphones,mobile-accessories,Beats,4,49.99,199.96,5.73,188.5,1974.84,1674.54,2025-10-03
+CART-00082,82,82,lillianb,136,Vivo X21,smartphones,Vivo,3,499.99,1499.97,17.41,1238.83,1974.84,1674.54,2025-04-21
+CART-00083,83,83,dylanw,163,Girl Summer Dress,tops,,2,19.99,39.98,19.2,32.3,150061.36,125679.0,2025-02-26
+CART-00083,83,83,dylanw,32,Milk,groceries,,1,3.49,3.49,13.74,3.01,150061.36,125679.0,2025-11-14
+CART-00083,83,83,dylanw,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,4,499.99,1999.96,2.01,1959.76,150061.36,125679.0,2025-05-24
+CART-00083,83,83,dylanw,170,Durango SXT RWD,vehicle,Dodge,4,36999.99,147999.96,16.44,123668.77,150061.36,125679.0,2025-10-12
+CART-00083,83,83,dylanw,49,Black Aluminium Cup,kitchen-accessories,,3,5.99,17.97,15.65,15.16,150061.36,125679.0,2025-10-18
+CART-00084,84,84,aaliyahh,141,Basketball Rim,sports-accessories,,2,39.99,79.98,7.74,73.79,569.92,542.55,2025-04-20
+CART-00084,84,84,aaliyahh,90,Puma Future Rider Trainers,mens-shoes,Puma,5,89.99,449.95,4.2,431.05,569.92,542.55,2025-10-19
+CART-00084,84,84,aaliyahh,71,Silver Pot With Glass Cap,kitchen-accessories,,1,39.99,39.99,5.7,37.71,569.92,542.55,2025-05-31
+CART-00085,85,85,cameronb,157,Party Glasses,sunglasses,Fashion Fun,4,19.99,79.96,11.22,70.99,179.94,163.88,2025-10-16
+CART-00085,85,85,cameronb,47,Table Lamp,home-decoration,,2,49.99,99.98,7.09,92.89,179.94,163.88,2025-05-18
+CART-00086,86,86,noram,114,Kawasaki Z800,motorcycle,Kawasaki,5,8999.99,44999.95,9.77,40603.45,45249.9,40809.21,2025-12-10
+CART-00086,86,86,noram,180,Dress Pea,womens-dresses,,5,49.99,249.95000000000002,17.68,205.76,45249.9,40809.21,2025-10-12
+CART-00087,87,87,hunterg,45,House Showpiece Plant,home-decoration,,5,39.99,199.95000000000002,7.46,185.03,309.92,278.38,2025-03-09
+CART-00087,87,87,hunterg,175,White Faux Leather Backpack,womens-bags,Urban Chic,2,39.99,79.98,15.2,67.82,309.92,278.38,2025-02-21
+CART-00087,87,87,hunterg,44,Family Tree Photo Frame,home-decoration,,1,29.99,29.99,14.87,25.53,309.92,278.38,2025-05-16
+CART-00088,88,88,aubreyw,58,Fork,kitchen-accessories,,5,3.99,19.950000000000003,8.07,18.34,149.94,128.13,2025-02-19
+CART-00088,88,88,aubreyw,100,Apple Airpods,mobile-accessories,Apple,1,129.99,129.99,15.54,109.79,149.94,128.13,2025-08-12
+CART-00089,89,89,braydenf,30,Kiwi,groceries,,4,2.49,9.96,15.22,8.44,2458.83,2111.01,2025-03-29
+CART-00089,89,89,braydenf,101,Apple AirPods Max Silver,mobile-accessories,Apple,4,549.99,2199.96,13.67,1899.23,2458.83,2111.01,2025-02-24
+CART-00089,89,89,braydenf,44,Family Tree Photo Frame,home-decoration,,1,29.99,29.99,14.87,25.53,2458.83,2111.01,2025-12-17
+CART-00089,89,89,braydenf,150,Metal Baseball Bat,sports-accessories,,2,29.99,59.98,19.51,48.28,2458.83,2111.01,2025-01-31
+CART-00089,89,89,braydenf,150,Metal Baseball Bat,sports-accessories,,5,29.99,149.95,19.51,120.69,2458.83,2111.01,2025-07-02
+CART-00089,89,89,braydenf,138,Baseball Ball,sports-accessories,,1,8.99,8.99,1.71,8.84,2458.83,2111.01,2025-04-05
+CART-00090,90,90,scarlettb,132,Samsung Galaxy S8,smartphones,Samsung,2,499.99,999.98,19.45,805.48,6059.84,5010.11,2025-11-27
+CART-00090,90,90,scarlettb,180,Dress Pea,womens-dresses,,4,49.99,199.96,17.68,164.61,6059.84,5010.11,2025-11-19
+CART-00090,90,90,scarlettb,83,Blue & Black Check Shirt,mens-shirts,Fashion Trends,2,29.99,59.98,15.35,50.77,6059.84,5010.11,2025-02-24
+CART-00090,90,90,scarlettb,176,Women Handbag Black,womens-bags,Elegance Collection,5,59.99,299.95,11.63,265.07,6059.84,5010.11,2025-09-17
+CART-00090,90,90,scarlettb,94,Longines Master Collection,mens-watches,Longines,3,1499.99,4499.97,17.24,3724.18,6059.84,5010.11,2025-06-10
+CART-00091,91,91,levih,187,Golden Shoes Woman,womens-shoes,Fashion Diva,4,49.99,199.96,13.93,172.11,259.94,228.17,2025-05-22
+CART-00091,91,91,levih,52,Carbon Steel Wok,kitchen-accessories,,2,29.99,59.98,6.53,56.06,259.94,228.17,2025-10-29
+CART-00092,92,92,autumng,132,Samsung Galaxy S8,smartphones,Samsung,1,499.99,499.99,19.45,402.74,809.92,680.17,2025-02-02
+CART-00092,92,92,autumng,187,Golden Shoes Woman,womens-shoes,Fashion Diva,3,49.99,149.97,13.93,129.08,809.92,680.17,2025-05-30
+CART-00092,92,92,autumng,51,Boxed Blender,kitchen-accessories,,4,39.99,159.96,7.26,148.35,809.92,680.17,2025-06-11
+CART-00093,93,93,juliann,83,Blue & Black Check Shirt,mens-shirts,Fashion Trends,2,29.99,59.98,15.35,50.77,1809.86,1468.77,2025-03-24
+CART-00093,93,93,juliann,74,Spoon,kitchen-accessories,,2,4.99,9.98,1.53,9.83,1809.86,1468.77,2025-05-14
+CART-00093,93,93,juliann,103,Apple HomePod Mini Cosmic Grey,mobile-accessories,Apple,1,99.99,99.99,18.1,81.89,1809.86,1468.77,2025-05-12
+CART-00093,93,93,juliann,85,Man Plaid Shirt,mens-shirts,Classic Wear,4,34.99,139.96,19.5,112.67,1809.86,1468.77,2025-02-02
+CART-00093,93,93,juliann,13,Bedside Table African Cherry,furniture,Furniture Co.,5,299.99,1499.95,19.09,1213.61,1809.86,1468.77,2025-01-08
+CART-00094,94,94,rubya,75,Tray,kitchen-accessories,,5,16.99,84.94999999999999,7.48,78.6,345.81,312.15,2025-07-30
+CART-00094,94,94,rubya,3,Powder Canister,beauty,Velvet Touch,4,14.99,59.96,9.84,54.06,345.81,312.15,2025-05-12
+CART-00094,94,94,rubya,155,Classic Sun Glasses,sunglasses,Fashion Shades,3,24.99,74.97,4.94,71.27,345.81,312.15,2025-08-01
+CART-00094,94,94,rubya,16,Apple,groceries,,3,1.99,5.97,12.62,5.22,345.81,312.15,2025-01-08
+CART-00094,94,94,rubya,188,Pampi Shoes,womens-shoes,Pampi,4,29.99,119.96,14.14,103.0,345.81,312.15,2025-01-30
+CART-00095,95,95,miless,133,Samsung Galaxy S10,smartphones,Samsung,5,699.99,3499.95,5.59,3304.3,154490.76,129783.31,2025-02-19
+CART-00095,95,95,miless,23,Eggs,groceries,,2,2.99,5.98,11.05,5.32,154490.76,129783.31,2025-05-01
+CART-00095,95,95,miless,170,Durango SXT RWD,vehicle,Dodge,4,36999.99,147999.96,16.44,123668.77,154490.76,129783.31,2025-01-12
+CART-00095,95,95,miless,183,Green Oval Earring,womens-jewellery,,5,24.99,124.94999999999999,15.18,105.98,154490.76,129783.31,2025-06-08
+CART-00095,95,95,miless,133,Samsung Galaxy S10,smartphones,Samsung,4,699.99,2799.96,5.59,2643.44,154490.76,129783.31,2025-03-04
+CART-00095,95,95,miless,140,Basketball,sports-accessories,,4,14.99,59.96,7.44,55.5,154490.76,129783.31,2025-02-18
+CART-00096,96,96,auroral,5,Red Nail Polish,beauty,Nail Couture,5,8.99,44.95,11.44,39.81,104.93,92.51,2025-12-18
+CART-00096,96,96,auroral,162,Blue Frock,tops,,2,29.99,59.98,12.13,52.7,104.93,92.51,2025-10-15
+CART-00097,97,97,oscarp,18,Cat Food,groceries,,1,8.99,8.99,9.58,8.13,2013.93,1623.42,2025-10-23
+CART-00097,97,97,oscarp,41,Tissue Paper Box,groceries,,2,2.49,4.98,13.28,4.32,2013.93,1623.42,2025-06-29
+CART-00097,97,97,oscarp,132,Samsung Galaxy S8,smartphones,Samsung,4,499.99,1999.96,19.45,1610.97,2013.93,1623.42,2025-06-11
+CART-00098,98,98,clarab,180,Dress Pea,womens-dresses,,5,49.99,249.95000000000002,17.68,205.76,1010.78,896.98,2025-08-22
+CART-00098,98,98,clarab,48,Bamboo Spatula,kitchen-accessories,,2,7.99,15.98,2.84,15.53,1010.78,896.98,2025-11-07
+CART-00098,98,98,clarab,99,Amazon Echo Plus,mobile-accessories,Amazon,5,99.99,499.95,12.07,439.61,1010.78,896.98,2025-11-17
+CART-00098,98,98,clarab,188,Pampi Shoes,womens-shoes,Pampi,1,29.99,29.99,14.14,25.75,1010.78,896.98,2025-12-02
+CART-00098,98,98,clarab,156,Green and Black Glasses,sunglasses,Fashion Shades,4,34.99,139.96,1.01,138.55,1010.78,896.98,2025-11-11
+CART-00098,98,98,clarab,24,Fish Steak,groceries,,5,14.99,74.95,4.23,71.78,1010.78,896.98,2025-01-20
+CART-00099,99,99,gavins,18,Cat Food,groceries,,3,8.99,26.97,9.58,24.39,124.4,117.96,2025-07-26
+CART-00099,99,99,gavins,68,Pan,kitchen-accessories,,3,24.99,74.97,3.0,72.72,124.4,117.96,2025-06-11
+CART-00099,99,99,gavins,146,Feather Shuttlecock,sports-accessories,,1,5.99,5.99,2.95,5.81,124.4,117.96,2025-11-08
+CART-00099,99,99,gavins,28,Ice Cream,groceries,,3,5.49,16.47,8.69,15.04,124.4,117.96,2025-04-21
+CART-00100,100,100,lilah,31,Lemon,groceries,,4,0.79,3.16,9.7,2.85,33003.13,31771.92,2025-11-01
+CART-00100,100,100,lilah,97,Rolex Datejust,mens-watches,Rolex,3,10999.99,32999.97,3.73,31769.07,33003.13,31771.92,2025-08-25
+CART-00101,101,101,alicej,57,Fine Mesh Strainer,kitchen-accessories,,3,9.99,29.97,3.5,28.92,1551.88,1464.78,2025-08-07
+CART-00101,101,101,alicej,153,Volleyball,sports-accessories,,3,11.99,35.97,12.25,31.56,1551.88,1464.78,2025-12-13
+CART-00101,101,101,alicej,133,Samsung Galaxy S10,smartphones,Samsung,2,699.99,1399.98,5.59,1321.72,1551.88,1464.78,2025-03-03
+CART-00101,101,101,alicej,22,Dog Food,groceries,,1,10.99,10.99,10.27,9.86,1551.88,1464.78,2025-12-18
+CART-00101,101,101,alicej,68,Pan,kitchen-accessories,,3,24.99,74.97,3.0,72.72,1551.88,1464.78,2025-07-11
+CART-00102,102,102,johnd,22,Dog Food,groceries,,1,10.99,10.99,10.27,9.86,171.9,155.13,2025-09-14
+CART-00102,102,102,johnd,111,Selfie Stick Monopod,mobile-accessories,SnapTech,1,12.99,12.99,19.12,10.51,171.9,155.13,2025-12-15
+CART-00102,102,102,johnd,53,Chopping Board,kitchen-accessories,,4,12.99,51.96,8.03,47.79,171.9,155.13,2025-05-09
+CART-00102,102,102,johnd,45,House Showpiece Plant,home-decoration,,2,39.99,79.98,7.46,74.01,171.9,155.13,2025-07-19
+CART-00102,102,102,johnd,63,Kitchen Sieve,kitchen-accessories,,2,7.99,15.98,18.91,12.96,171.9,155.13,2025-05-30
+CART-00103,103,103,emilyt,37,Red Onions,groceries,,5,1.99,9.95,9.9,8.96,35.89,31.79,2025-07-02
+CART-00103,103,103,emilyt,39,Soft Drinks,groceries,,4,1.99,7.96,17.48,6.57,35.89,31.79,2025-01-30
+CART-00103,103,103,emilyt,18,Cat Food,groceries,,2,8.99,17.98,9.58,16.26,35.89,31.79,2025-08-12
+CART-00104,104,104,michaelj,87,Men Check Shirt,mens-shirts,Urban Chic,5,27.99,139.95,11.38,124.02,1120.23,990.53,2025-01-13
+CART-00104,104,104,michaelj,24,Fish Steak,groceries,,5,14.99,74.95,4.23,71.78,1120.23,990.53,2025-05-25
+CART-00104,104,104,michaelj,32,Milk,groceries,,3,3.49,10.47,13.74,9.03,1120.23,990.53,2025-12-22
+CART-00104,104,104,michaelj,66,Microwave Oven,kitchen-accessories,,4,89.99,359.96,12.13,316.3,1120.23,990.53,2025-06-19
+CART-00104,104,104,michaelj,55,Egg Slicer,kitchen-accessories,,5,6.99,34.95,14.76,29.79,1120.23,990.53,2025-05-29
+CART-00104,104,104,michaelj,99,Amazon Echo Plus,mobile-accessories,Amazon,5,99.99,499.95,12.07,439.61,1120.23,990.53,2025-03-04
+CART-00105,105,105,emmac,148,Golf Ball,sports-accessories,,2,9.99,19.98,17.37,16.51,147.91,134.21,2025-06-02
+CART-00105,105,105,emmac,109,Monopod,mobile-accessories,TechGear,3,19.99,59.97,8.58,54.82,147.91,134.21,2025-08-02
+CART-00105,105,105,emmac,75,Tray,kitchen-accessories,,4,16.99,67.96,7.48,62.88,147.91,134.21,2025-06-13
+CART-00106,106,106,davidm,84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,1,24.99,24.99,0.94,24.76,104.97,94.38,2025-10-27
+CART-00106,106,106,davidm,166,Tartan Dress,tops,,2,39.99,79.98,12.95,69.62,104.97,94.38,2025-01-11
+CART-00107,107,107,oliviah,52,Carbon Steel Wok,kitchen-accessories,,1,29.99,29.99,6.53,28.03,129.97,120.92,2025-10-05
+CART-00107,107,107,oliviah,47,Table Lamp,home-decoration,,2,49.99,99.98,7.09,92.89,129.97,120.92,2025-06-25
+CART-00108,108,108,jamesg,142,Cricket Ball,sports-accessories,,1,12.99,12.99,8.63,11.87,1062.96,935.63,2025-04-12
+CART-00108,108,108,jamesg,106,Apple Watch Series 4 Gold,mobile-accessories,Apple,3,349.99,1049.97,12.02,923.76,1062.96,935.63,2025-10-15
+CART-00109,109,109,sophiam,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,5,1999.99,9999.95,4.69,9530.95,10089.94,9615.55,2025-01-29
+CART-00109,109,109,sophiam,93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,1,89.99,89.99,5.99,84.6,10089.94,9615.55,2025-02-27
+CART-00110,110,110,danielt,170,Durango SXT RWD,vehicle,Dodge,1,36999.99,36999.99,16.44,30917.19,37703.85,31595.18,2025-03-25
+CART-00110,110,110,danielt,163,Girl Summer Dress,tops,,3,19.99,59.97,19.2,48.46,37703.85,31595.18,2025-11-13
+CART-00110,110,110,danielt,38,Rice,groceries,,4,5.99,23.96,9.29,21.73,37703.85,31595.18,2025-03-04
+CART-00110,110,110,danielt,61,Hand Blender,kitchen-accessories,,2,34.99,69.98,17.02,58.07,37703.85,31595.18,2025-03-02
+CART-00110,110,110,danielt,92,Sports Sneakers Off White Red,mens-shoes,Off White,5,109.99,549.9499999999999,0.04,549.73,37703.85,31595.18,2025-01-20
+CART-00111,111,111,isabellaw,12,Annibale Colombo Sofa,furniture,Annibale Colombo,5,2499.99,12499.949999999999,14.4,10699.96,13899.91,11845.13,2025-03-06
+CART-00111,111,111,isabellaw,161,Samsung Galaxy Tab White,tablets,Samsung,4,349.99,1399.96,18.2,1145.17,13899.91,11845.13,2025-09-25
+CART-00112,112,112,alexanderh,172,Blue Women's Handbag,womens-bags,Fashionista,4,49.99,199.96,17.88,164.21,384.88,343.42,2025-07-01
+CART-00112,112,112,alexanderh,49,Black Aluminium Cup,kitchen-accessories,,1,5.99,5.99,15.65,5.05,384.88,343.42,2025-11-02
+CART-00112,112,112,alexanderh,142,Cricket Ball,sports-accessories,,3,12.99,38.97,8.63,35.61,384.88,343.42,2025-11-28
+CART-00112,112,112,alexanderh,156,Green and Black Glasses,sunglasses,Fashion Shades,4,34.99,139.96,1.01,138.55,384.88,343.42,2025-12-02
+CART-00113,113,113,miam,1,Essence Mascara Lash Princess,beauty,Essence,5,9.99,49.95,10.48,44.72,1624.87,1480.45,2025-06-04
+CART-00113,113,113,miam,110,Selfie Lamp with iPhone,mobile-accessories,GadgetMaster,5,14.99,74.95,19.4,60.41,1624.87,1480.45,2025-01-15
+CART-00113,113,113,miam,112,TV Studio Camera Pedestal,mobile-accessories,ProVision,3,499.99,1499.97,8.31,1375.32,1624.87,1480.45,2025-08-06
+CART-00114,114,114,ethant,105,Apple MagSafe Battery Pack,mobile-accessories,Apple,2,99.99,199.98,17.17,165.64,37699.93,33323.1,2025-10-24
+CART-00114,114,114,ethant,117,Sportbike Motorcycle,motorcycle,SpeedMaster,5,7499.99,37499.95,11.58,33157.46,37699.93,33323.1,2025-03-06
+CART-00115,115,115,charlotteb,166,Tartan Dress,tops,,2,39.99,79.98,12.95,69.62,4526.87,4223.96,2025-07-02
+CART-00115,115,115,charlotteb,81,Lenovo Yoga 920,laptops,Lenovo,4,1099.99,4399.96,6.55,4111.76,4526.87,4223.96,2025-08-01
+CART-00115,115,115,charlotteb,69,Plate,kitchen-accessories,,2,3.99,7.98,7.31,7.4,4526.87,4223.96,2025-07-16
+CART-00115,115,115,charlotteb,18,Cat Food,groceries,,4,8.99,35.96,9.58,32.52,4526.87,4223.96,2025-07-13
+CART-00115,115,115,charlotteb,23,Eggs,groceries,,1,2.99,2.99,11.05,2.66,4526.87,4223.96,2025-05-03
+CART-00116,116,116,williaml,144,Cricket Helmet,sports-accessories,,1,44.99,44.99,9.64,40.65,9141.33,8558.54,2025-08-04
+CART-00116,116,116,williaml,21,Cucumber,groceries,,5,1.49,7.45,0.16,7.44,9141.33,8558.54,2025-12-06
+CART-00116,116,116,williaml,116,Scooter Motorcycle,motorcycle,ScootMaster,3,2999.99,8999.97,6.27,8435.67,9141.33,8558.54,2025-04-23
+CART-00116,116,116,williaml,111,Selfie Stick Monopod,mobile-accessories,SnapTech,3,12.99,38.97,19.12,31.52,9141.33,8558.54,2025-03-06
+CART-00116,116,116,williaml,120,Vaseline Men Body and Face Lotion,skin-care,Vaseline,5,9.99,49.95,13.39,43.26,9141.33,8558.54,2025-04-04
+CART-00117,117,117,ameliag,11,Annibale Colombo Bed,furniture,Annibale Colombo,2,1899.99,3799.98,8.57,3474.32,10989.86,9985.79,2025-10-05
+CART-00117,117,117,ameliag,69,Plate,kitchen-accessories,,1,3.99,3.99,7.31,3.7,10989.86,9985.79,2025-01-15
+CART-00117,117,117,ameliag,37,Red Onions,groceries,,3,1.99,5.97,9.9,5.38,10989.86,9985.79,2025-12-05
+CART-00117,117,117,ameliag,176,Women Handbag Black,womens-bags,Elegance Collection,3,59.99,179.97,11.63,159.04,10989.86,9985.79,2025-10-05
+CART-00117,117,117,ameliag,80,Huawei Matebook X Pro,laptops,Huawei,5,1399.99,6999.95,9.38,6343.35,10989.86,9985.79,2025-12-17
+CART-00118,118,118,benjaminw,60,Grater Black,kitchen-accessories,,4,10.99,43.96,3.56,42.4,158.85,141.14,2025-10-12
+CART-00118,118,118,benjaminw,183,Green Oval Earring,womens-jewellery,,2,24.99,49.98,15.18,42.39,158.85,141.14,2025-07-23
+CART-00118,118,118,benjaminw,120,Vaseline Men Body and Face Lotion,skin-care,Vaseline,4,9.99,39.96,13.39,34.61,158.85,141.14,2025-05-11
+CART-00118,118,118,benjaminw,33,Mulberry,groceries,,5,4.99,24.950000000000003,12.87,21.74,158.85,141.14,2025-03-17
+CART-00119,119,119,liamr,104,Apple iPhone Charger,mobile-accessories,Apple,2,19.99,39.98,18.52,32.58,299.96,252.16,2025-04-27
+CART-00119,119,119,liamr,100,Apple Airpods,mobile-accessories,Apple,2,129.99,259.98,15.54,219.58,299.96,252.16,2025-01-12
+CART-00120,120,120,evelynf,105,Apple MagSafe Battery Pack,mobile-accessories,Apple,2,99.99,199.98,17.17,165.64,879.92,814.89,2025-01-09
+CART-00120,120,120,evelynf,45,House Showpiece Plant,home-decoration,,2,39.99,79.98,7.46,74.01,879.92,814.89,2025-05-22
+CART-00120,120,120,evelynf,88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,4,149.99,599.96,4.12,575.24,879.92,814.89,2025-10-05
+CART-00121,121,121,avahx,60,Grater Black,kitchen-accessories,,5,10.99,54.95,3.56,52.99,83.9,79.41,2025-09-03
+CART-00121,121,121,avahx,42,Water,groceries,,3,0.99,2.9699999999999998,14.92,2.53,83.9,79.41,2025-08-02
+CART-00121,121,121,avahx,53,Chopping Board,kitchen-accessories,,2,12.99,25.98,8.03,23.89,83.9,79.41,2025-05-16
+CART-00122,122,122,liamt,95,Rolex Cellini Date Black Dial,mens-watches,Rolex,3,8999.99,26999.97,8.88,24602.37,27089.94,24688.5,2025-06-11
+CART-00122,122,122,liamt,184,Tropical Earring,womens-jewellery,,2,19.99,39.98,0.76,39.68,27089.94,24688.5,2025-03-12
+CART-00122,122,122,liamt,47,Table Lamp,home-decoration,,1,49.99,49.99,7.09,46.45,27089.94,24688.5,2025-11-17
+CART-00123,123,123,harperb,183,Green Oval Earring,womens-jewellery,,4,24.99,99.96,15.18,84.79,84301.79,78514.37,2025-10-31
+CART-00123,123,123,harperb,116,Scooter Motorcycle,motorcycle,ScootMaster,3,2999.99,8999.97,6.27,8435.67,84301.79,78514.37,2025-02-15
+CART-00123,123,123,harperb,155,Classic Sun Glasses,sunglasses,Fashion Shades,4,24.99,99.96,4.94,95.02,84301.79,78514.37,2025-04-02
+CART-00123,123,123,harperb,53,Chopping Board,kitchen-accessories,,4,12.99,51.96,8.03,47.79,84301.79,78514.37,2025-10-11
+CART-00123,123,123,harperb,115,MotoGP CI.H1,motorcycle,MotoGP,5,14999.99,74999.95,6.92,69809.95,84301.79,78514.37,2025-01-20
+CART-00123,123,123,harperb,180,Dress Pea,womens-dresses,,1,49.99,49.99,17.68,41.15,84301.79,78514.37,2025-11-29
+CART-00124,124,124,noahl,144,Cricket Helmet,sports-accessories,,4,44.99,179.96,9.64,162.61,469.85,433.96,2025-09-21
+CART-00124,124,124,noahl,149,Iron Golf,sports-accessories,,5,49.99,249.95000000000002,6.53,233.63,469.85,433.96,2025-05-16
+CART-00124,124,124,noahl,146,Feather Shuttlecock,sports-accessories,,5,5.99,29.950000000000003,2.95,29.07,469.85,433.96,2025-06-24
+CART-00124,124,124,noahl,120,Vaseline Men Body and Face Lotion,skin-care,Vaseline,1,9.99,9.99,13.39,8.65,469.85,433.96,2025-11-21
+CART-00125,125,125,loganlx,123,iPhone 13 Pro,smartphones,Apple,3,1099.99,3299.9700000000003,9.37,2990.76,3364.92,3047.81,2025-09-24
+CART-00125,125,125,loganlx,4,Red Lipstick,beauty,Chic Cosmetics,5,12.99,64.95,12.16,57.05,3364.92,3047.81,2025-06-12
+CART-00126,126,126,averya,181,Marni Red & Black Suit,womens-dresses,,2,179.99,359.98,19.02,291.51,1105.34,920.91,2025-01-29
+CART-00126,126,126,averya,68,Pan,kitchen-accessories,,5,24.99,124.94999999999999,3.0,121.2,1105.34,920.91,2025-12-03
+CART-00126,126,126,averya,69,Plate,kitchen-accessories,,2,3.99,7.98,7.31,7.4,1105.34,920.91,2025-01-06
+CART-00126,126,126,averya,127,Oppo K1,smartphones,Oppo,2,299.99,599.98,18.29,490.24,1105.34,920.91,2025-11-18
+CART-00126,126,126,averya,30,Kiwi,groceries,,5,2.49,12.450000000000001,15.22,10.56,1105.34,920.91,2025-05-05
+CART-00127,127,127,masonw,140,Basketball,sports-accessories,,2,14.99,29.98,7.44,27.75,1023.86,887.48,2025-08-29
+CART-00127,127,127,masonw,128,Realme C35,smartphones,Realme,3,149.99,449.97,15.3,381.12,1023.86,887.48,2025-01-30
+CART-00127,127,127,masonw,87,Men Check Shirt,mens-shirts,Urban Chic,3,27.99,83.97,11.38,74.41,1023.86,887.48,2025-04-24
+CART-00127,127,127,masonw,46,Plant Pot,home-decoration,,4,14.99,59.96,6.84,55.86,1023.86,887.48,2025-12-14
+CART-00127,127,127,masonw,121,iPhone 5s,smartphones,Apple,2,199.99,399.98,12.91,348.34,1023.86,887.48,2025-09-18
+CART-00128,128,128,gracee,147,Football,sports-accessories,,1,17.99,17.99,5.15,17.06,10236.85,9755.4,2025-03-19
+CART-00128,128,128,gracee,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,5,1999.99,9999.95,4.69,9530.95,10236.85,9755.4,2025-07-24
+CART-00128,128,128,gracee,4,Red Lipstick,beauty,Chic Cosmetics,3,12.99,38.97,12.16,34.23,10236.85,9755.4,2025-12-29
+CART-00128,128,128,gracee,173,Heshe Women's Leather Bag,womens-bags,Heshe,1,129.99,129.99,3.87,124.96,10236.85,9755.4,2025-07-04
+CART-00128,128,128,gracee,57,Fine Mesh Strainer,kitchen-accessories,,5,9.99,49.95,3.5,48.2,10236.85,9755.4,2025-04-30
+CART-00129,129,129,lucasa,136,Vivo X21,smartphones,Vivo,4,499.99,1999.96,17.41,1651.77,2246.3,1878.79,2025-10-15
+CART-00129,129,129,lucasa,52,Carbon Steel Wok,kitchen-accessories,,5,29.99,149.95,6.53,140.16,2246.3,1878.79,2025-05-22
+CART-00129,129,129,lucasa,21,Cucumber,groceries,,1,1.49,1.49,0.16,1.49,2246.3,1878.79,2025-06-25
+CART-00129,129,129,lucasa,162,Blue Frock,tops,,1,29.99,29.99,12.13,26.35,2246.3,1878.79,2025-04-13
+CART-00129,129,129,lucasa,18,Cat Food,groceries,,5,8.99,44.95,9.58,40.64,2246.3,1878.79,2025-07-11
+CART-00129,129,129,lucasa,59,Glass,kitchen-accessories,,4,4.99,19.96,7.92,18.38,2246.3,1878.79,2025-07-03
+CART-00130,130,130,chloep,65,Lunch Box,kitchen-accessories,,2,12.99,25.98,10.34,23.29,30625.95,29328.26,2025-08-24
+CART-00130,130,130,chloep,15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,2,799.99,1599.98,8.8,1459.18,30625.95,29328.26,2025-11-23
+CART-00130,130,130,chloep,167,300 Touring,vehicle,Chrysler,1,28999.99,28999.99,3.98,27845.79,30625.95,29328.26,2025-08-23
+CART-00131,131,131,jacksonm,93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,5,89.99,449.95,5.99,423.0,3702.71,3474.09,2025-10-08
+CART-00131,131,131,jacksonm,65,Lunch Box,kitchen-accessories,,2,12.99,25.98,10.34,23.29,3702.71,3474.09,2025-08-31
+CART-00131,131,131,jacksonm,90,Puma Future Rider Trainers,mens-shoes,Puma,2,89.99,179.98,4.2,172.42,3702.71,3474.09,2025-12-11
+CART-00131,131,131,jacksonm,133,Samsung Galaxy S10,smartphones,Samsung,4,699.99,2799.96,5.59,2643.44,3702.71,3474.09,2025-10-25
+CART-00131,131,131,jacksonm,35,Potatoes,groceries,,3,2.29,6.87,5.38,6.5,3702.71,3474.09,2025-06-09
+CART-00131,131,131,jacksonm,10,Gucci Bloom Eau de,fragrances,Gucci,3,79.99,239.96999999999997,14.39,205.44,3702.71,3474.09,2025-04-07
+CART-00132,132,132,zoec,51,Boxed Blender,kitchen-accessories,,3,39.99,119.97,7.26,111.26,13411.81,11523.23,2025-03-23
+CART-00132,132,132,zoec,179,Corset With Black Skirt,womens-dresses,,1,79.99,79.99,15.06,67.94,13411.81,11523.23,2025-11-18
+CART-00132,132,132,zoec,51,Boxed Blender,kitchen-accessories,,4,39.99,159.96,7.26,148.35,13411.81,11523.23,2025-07-30
+CART-00132,132,132,zoec,12,Annibale Colombo Sofa,furniture,Annibale Colombo,5,2499.99,12499.949999999999,14.4,10699.96,13411.81,11523.23,2025-03-20
+CART-00132,132,132,zoec,65,Lunch Box,kitchen-accessories,,4,12.99,51.96,10.34,46.59,13411.81,11523.23,2025-09-06
+CART-00132,132,132,zoec,134,Vivo S1,smartphones,Vivo,2,249.99,499.98,10.17,449.13,13411.81,11523.23,2025-01-03
+CART-00133,133,133,carterr,176,Women Handbag Black,womens-bags,Elegance Collection,2,59.99,119.98,11.63,106.03,9559.87,8818.7,2025-07-01
+CART-00133,133,133,carterr,176,Women Handbag Black,womens-bags,Elegance Collection,4,59.99,239.96,11.63,212.05,9559.87,8818.7,2025-09-25
+CART-00133,133,133,carterr,152,Tennis Racket,sports-accessories,,4,49.99,199.96,19.61,160.75,9559.87,8818.7,2025-12-26
+CART-00133,133,133,carterr,190,IWC Ingenieur Automatic Steel,womens-watches,IWC,1,4999.99,4999.99,9.45,4527.49,9559.87,8818.7,2025-07-29
+CART-00133,133,133,carterr,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,2,1999.99,3999.98,4.69,3812.38,9559.87,8818.7,2025-01-20
+CART-00134,134,134,noramx,126,Oppo F19 Pro Plus,smartphones,Oppo,3,399.99,1199.97,18.64,976.3,2056.81,1740.76,2025-11-24
+CART-00134,134,134,noramx,103,Apple HomePod Mini Cosmic Grey,mobile-accessories,Apple,3,99.99,299.96999999999997,18.1,245.68,2056.81,1740.76,2025-03-30
+CART-00134,134,134,noramx,173,Heshe Women's Leather Bag,womens-bags,Heshe,3,129.99,389.97,3.87,374.88,2056.81,1740.76,2025-02-13
+CART-00134,134,134,noramx,183,Green Oval Earring,womens-jewellery,,3,24.99,74.97,15.18,63.59,2056.81,1740.76,2025-06-03
+CART-00134,134,134,noramx,104,Apple iPhone Charger,mobile-accessories,Apple,3,19.99,59.97,18.52,48.86,2056.81,1740.76,2025-07-10
+CART-00134,134,134,noramx,34,Nescafe Coffee,groceries,,4,7.99,31.96,1.59,31.45,2056.81,1740.76,2025-10-07
+CART-00135,135,135,elijahc,150,Metal Baseball Bat,sports-accessories,,2,29.99,59.98,19.51,48.28,889.87,751.73,2025-05-16
+CART-00135,135,135,elijahc,188,Pampi Shoes,womens-shoes,Pampi,2,29.99,59.98,14.14,51.5,889.87,751.73,2025-03-12
+CART-00135,135,135,elijahc,100,Apple Airpods,mobile-accessories,Apple,5,129.99,649.95,15.54,548.95,889.87,751.73,2025-02-21
+CART-00135,135,135,elijahc,188,Pampi Shoes,womens-shoes,Pampi,4,29.99,119.96,14.14,103.0,889.87,751.73,2025-01-10
+CART-00136,136,136,madisonk,177,Black Women's Gown,womens-dresses,,2,129.99,259.98,10.48,232.73,405.93,360.45,2025-10-01
+CART-00136,136,136,madisonk,65,Lunch Box,kitchen-accessories,,2,12.99,25.98,10.34,23.29,405.93,360.45,2025-04-22
+CART-00136,136,136,madisonk,166,Tartan Dress,tops,,3,39.99,119.97,12.95,104.43,405.93,360.45,2025-12-23
+CART-00137,137,137,gabrielb,43,Decoration Swing,home-decoration,,3,59.99,179.97,10.41,161.24,12442.86,10941.81,2025-10-26
+CART-00137,137,137,gabrielb,87,Men Check Shirt,mens-shirts,Urban Chic,5,27.99,139.95,11.38,124.02,12442.86,10941.81,2025-06-07
+CART-00137,137,137,gabrielb,56,Electric Stove,kitchen-accessories,,2,49.99,99.98,14.04,85.94,12442.86,10941.81,2025-10-21
+CART-00137,137,137,gabrielb,113,Generic Motorcycle,motorcycle,Generic Motors,3,3999.99,11999.97,12.1,10547.97,12442.86,10941.81,2025-01-23
+CART-00137,137,137,gabrielb,158,Sunglasses,sunglasses,Fashion Shades,1,22.99,22.99,1.51,22.64,12442.86,10941.81,2025-07-21
+CART-00138,138,138,lilyl,117,Sportbike Motorcycle,motorcycle,SpeedMaster,2,7499.99,14999.98,11.58,13262.98,15029.93,13292.05,2025-07-14
+CART-00138,138,138,lilyl,146,Feather Shuttlecock,sports-accessories,,5,5.99,29.950000000000003,2.95,29.07,15029.93,13292.05,2025-10-03
+CART-00139,139,139,elijahh,62,Ice Cube Tray,kitchen-accessories,,2,5.99,11.98,0.63,11.9,36.97,36.17,2025-09-22
+CART-00139,139,139,elijahh,139,Baseball Glove,sports-accessories,,1,24.99,24.99,2.9,24.27,36.97,36.17,2025-11-26
+CART-00140,140,140,hannahg,87,Men Check Shirt,mens-shirts,Urban Chic,1,27.99,27.99,11.38,24.8,643.91,614.71,2025-12-05
+CART-00140,140,140,hannahg,58,Fork,kitchen-accessories,,4,3.99,15.96,8.07,14.67,643.91,614.71,2025-03-22
+CART-00140,140,140,hannahg,88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,4,149.99,599.96,4.12,575.24,643.91,614.71,2025-09-18
+CART-00141,141,141,owens,161,Samsung Galaxy Tab White,tablets,Samsung,5,349.99,1749.95,18.2,1431.46,2991.36,2506.71,2025-02-23
+CART-00141,141,141,owens,35,Potatoes,groceries,,5,2.29,11.45,5.38,10.83,2991.36,2506.71,2025-02-13
+CART-00141,141,141,owens,160,Samsung Galaxy Tab S8 Plus Grey,tablets,Samsung,2,599.99,1199.98,13.31,1040.26,2991.36,2506.71,2025-03-14
+CART-00141,141,141,owens,110,Selfie Lamp with iPhone,mobile-accessories,GadgetMaster,2,14.99,29.98,19.4,24.16,2991.36,2506.71,2025-07-19
+CART-00142,142,142,ariam,159,iPad Mini 2021 Starlight,tablets,Apple,2,499.99,999.98,3.64,963.58,2675.8,2499.07,2025-06-20
+CART-00142,142,142,ariam,187,Golden Shoes Woman,womens-shoes,Fashion Diva,4,49.99,199.96,13.93,172.11,2675.8,2499.07,2025-10-08
+CART-00142,142,142,ariam,112,TV Studio Camera Pedestal,mobile-accessories,ProVision,2,499.99,999.98,8.31,916.88,2675.8,2499.07,2025-05-14
+CART-00142,142,142,ariam,51,Boxed Blender,kitchen-accessories,,5,39.99,199.95000000000002,7.26,185.43,2675.8,2499.07,2025-06-08
+CART-00142,142,142,ariam,5,Red Nail Polish,beauty,Nail Couture,4,8.99,35.96,11.44,31.85,2675.8,2499.07,2025-01-22
+CART-00142,142,142,ariam,102,Apple Airpower Wireless Charger,mobile-accessories,Apple,3,79.99,239.96999999999997,4.48,229.22,2675.8,2499.07,2025-10-31
+CART-00143,143,143,graysonc,149,Iron Golf,sports-accessories,,3,49.99,149.97,6.53,140.18,17609.79,15464.38,2025-12-06
+CART-00143,143,143,graysonc,150,Metal Baseball Bat,sports-accessories,,4,29.99,119.96,19.51,96.56,17609.79,15464.38,2025-04-08
+CART-00143,143,143,graysonc,80,Huawei Matebook X Pro,laptops,Huawei,5,1399.99,6999.95,9.38,6343.35,17609.79,15464.38,2025-03-25
+CART-00143,143,143,graysonc,12,Annibale Colombo Sofa,furniture,Annibale Colombo,4,2499.99,9999.96,14.4,8559.97,17609.79,15464.38,2025-05-30
+CART-00143,143,143,graysonc,166,Tartan Dress,tops,,3,39.99,119.97,12.95,104.43,17609.79,15464.38,2025-06-01
+CART-00143,143,143,graysonc,92,Sports Sneakers Off White Red,mens-shoes,Off White,2,109.99,219.98,0.04,219.89,17609.79,15464.38,2025-10-05
+CART-00144,144,144,ellar,12,Annibale Colombo Sofa,furniture,Annibale Colombo,1,2499.99,2499.99,14.4,2139.99,4269.05,3608.57,2025-05-27
+CART-00144,144,144,ellar,132,Samsung Galaxy S8,smartphones,Samsung,3,499.99,1499.97,19.45,1208.23,4269.05,3608.57,2025-07-02
+CART-00144,144,144,ellar,35,Potatoes,groceries,,4,2.29,9.16,5.38,8.67,4269.05,3608.57,2025-03-10
+CART-00144,144,144,ellar,71,Silver Pot With Glass Cap,kitchen-accessories,,3,39.99,119.97,5.7,113.13,4269.05,3608.57,2025-07-18
+CART-00144,144,144,ellar,156,Green and Black Glasses,sunglasses,Fashion Shades,4,34.99,139.96,1.01,138.55,4269.05,3608.57,2025-04-07
+CART-00145,145,145,lukec,152,Tennis Racket,sports-accessories,,4,49.99,199.96,19.61,160.75,1153.84,1030.1,2025-11-19
+CART-00145,145,145,lukec,52,Carbon Steel Wok,kitchen-accessories,,3,29.99,89.97,6.53,84.09,1153.84,1030.1,2025-01-05
+CART-00145,145,145,lukec,129,Realme X,smartphones,Realme,2,299.99,599.98,6.95,558.28,1153.84,1030.1,2025-11-07
+CART-00145,145,145,lukec,146,Feather Shuttlecock,sports-accessories,,1,5.99,5.99,2.95,5.81,1153.84,1030.1,2025-11-28
+CART-00145,145,145,lukec,77,Yellow Peeler,kitchen-accessories,,3,5.99,17.97,12.48,15.73,1153.84,1030.1,2025-09-03
+CART-00145,145,145,lukec,10,Gucci Bloom Eau de,fragrances,Gucci,3,79.99,239.96999999999997,14.39,205.44,1153.84,1030.1,2025-08-05
+CART-00146,146,146,leahp,137,American Football,sports-accessories,,2,19.99,39.98,4.93,38.01,562.82,506.06,2025-07-02
+CART-00146,146,146,leahp,18,Cat Food,groceries,,5,8.99,44.95,9.58,40.64,562.82,506.06,2025-10-03
+CART-00146,146,146,leahp,172,Blue Women's Handbag,womens-bags,Fashionista,4,49.99,199.96,17.88,164.21,562.82,506.06,2025-03-29
+CART-00146,146,146,leahp,151,Tennis Ball,sports-accessories,,2,6.99,13.98,11.76,12.34,562.82,506.06,2025-09-22
+CART-00146,146,146,leahp,102,Apple Airpower Wireless Charger,mobile-accessories,Apple,3,79.99,239.96999999999997,4.48,229.22,562.82,506.06,2025-01-16
+CART-00146,146,146,leahp,76,Wooden Rolling Pin,kitchen-accessories,,2,11.99,23.98,9.75,21.64,562.82,506.06,2025-04-02
+CART-00147,147,147,henryt,42,Water,groceries,,3,0.99,2.9699999999999998,14.92,2.53,2102.83,1898.14,2025-06-11
+CART-00147,147,147,henryt,122,iPhone 6,smartphones,Apple,1,299.99,299.99,6.69,279.92,2102.83,1898.14,2025-10-04
+CART-00147,147,147,henryt,129,Realme X,smartphones,Realme,3,299.99,899.97,6.95,837.42,2102.83,1898.14,2025-03-16
+CART-00147,147,147,henryt,7,Chanel Coco Noir Eau De,fragrances,Chanel,5,129.99,649.95,16.51,542.64,2102.83,1898.14,2025-03-25
+CART-00147,147,147,henryt,107,Beats Flex Wireless Earphones,mobile-accessories,Beats,5,49.99,249.95000000000002,5.73,235.63,2102.83,1898.14,2025-01-15
+CART-00148,148,148,aurorag,32,Milk,groceries,,2,3.49,6.98,13.74,6.02,71.93,58.55,2025-03-01
+CART-00148,148,148,aurorag,111,Selfie Stick Monopod,mobile-accessories,SnapTech,5,12.99,64.95,19.12,52.53,71.93,58.55,2025-09-21
+CART-00149,149,149,wyattp,117,Sportbike Motorcycle,motorcycle,SpeedMaster,5,7499.99,37499.95,11.58,33157.46,39227.33,34702.26,2025-12-08
+CART-00149,149,149,wyattp,101,Apple AirPods Max Silver,mobile-accessories,Apple,2,549.99,1099.98,13.67,949.61,39227.33,34702.26,2025-12-27
+CART-00149,149,149,wyattp,91,Sports Sneakers Off White & Red,mens-shoes,Off White,5,119.99,599.9499999999999,4.97,570.13,39227.33,34702.26,2025-11-26
+CART-00149,149,149,wyattp,28,Ice Cream,groceries,,5,5.49,27.450000000000003,8.69,25.06,39227.33,34702.26,2025-01-02
+CART-00150,150,150,stellas,153,Volleyball,sports-accessories,,1,11.99,11.99,12.25,10.52,1029.42,989.15,2025-07-11
+CART-00150,150,150,stellas,32,Milk,groceries,,5,3.49,17.450000000000003,13.74,15.05,1029.42,989.15,2025-02-02
+CART-00150,150,150,stellas,159,iPad Mini 2021 Starlight,tablets,Apple,2,499.99,999.98,3.64,963.58,1029.42,989.15,2025-07-08
+CART-00151,151,151,nathanr,38,Rice,groceries,,2,5.99,11.98,9.29,10.87,247.85,222.39,2025-06-04
+CART-00151,151,151,nathanr,2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,3,19.99,59.97,18.19,49.06,247.85,222.39,2025-04-21
+CART-00151,151,151,nathanr,21,Cucumber,groceries,,4,1.49,5.96,0.16,5.95,247.85,222.39,2025-09-30
+CART-00151,151,151,nathanr,52,Carbon Steel Wok,kitchen-accessories,,5,29.99,149.95,6.53,140.16,247.85,222.39,2025-03-20
+CART-00151,151,151,nathanr,2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,1,19.99,19.99,18.19,16.35,247.85,222.39,2025-11-03
+CART-00152,152,152,paisleyf,108,iPhone 12 Silicone Case with MagSafe Plum,mobile-accessories,Apple,4,29.99,119.96,13.85,103.35,4119.91,3369.71,2025-11-09
+CART-00152,152,152,paisleyf,193,Watch Gold for Women,womens-watches,Fashion Gold,5,799.99,3999.95,18.34,3266.36,4119.91,3369.71,2025-05-08
+CART-00153,153,153,christianp,7,Chanel Coco Noir Eau De,fragrances,Chanel,2,129.99,259.98,16.51,217.06,4309.85,3678.46,2025-03-06
+CART-00153,153,153,christianp,120,Vaseline Men Body and Face Lotion,skin-care,Vaseline,3,9.99,29.97,13.39,25.96,4309.85,3678.46,2025-02-24
+CART-00153,153,153,christianp,110,Selfie Lamp with iPhone,mobile-accessories,GadgetMaster,1,14.99,14.99,19.4,12.08,4309.85,3678.46,2025-06-17
+CART-00153,153,153,christianp,136,Vivo X21,smartphones,Vivo,5,499.99,2499.95,17.41,2064.71,4309.85,3678.46,2025-09-06
+CART-00153,153,153,christianp,80,Huawei Matebook X Pro,laptops,Huawei,1,1399.99,1399.99,9.38,1268.67,4309.85,3678.46,2025-02-24
+CART-00153,153,153,christianp,164,Gray Dress,tops,,3,34.99,104.97,14.28,89.98,4309.85,3678.46,2025-02-07
+CART-00154,154,154,bellaa,29,Juice,groceries,,1,3.99,3.99,12.06,3.51,573.92,532.54,2025-07-15
+CART-00154,154,154,bellaa,93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,5,89.99,449.95,5.99,423.0,573.92,532.54,2025-05-15
+CART-00154,154,154,bellaa,176,Women Handbag Black,womens-bags,Elegance Collection,2,59.99,119.98,11.63,106.03,573.92,532.54,2025-11-12
+CART-00155,155,155,nicholase,113,Generic Motorcycle,motorcycle,Generic Motors,5,3999.99,19999.949999999997,12.1,17579.96,131224.81,110543.89,2025-06-04
+CART-00155,155,155,nicholase,74,Spoon,kitchen-accessories,,5,4.99,24.950000000000003,1.53,24.57,131224.81,110543.89,2025-11-28
+CART-00155,155,155,nicholase,71,Silver Pot With Glass Cap,kitchen-accessories,,4,39.99,159.96,5.7,150.84,131224.81,110543.89,2025-03-02
+CART-00155,155,155,nicholase,170,Durango SXT RWD,vehicle,Dodge,3,36999.99,110999.97,16.44,92751.57,131224.81,110543.89,2025-06-28
+CART-00155,155,155,nicholase,36,Protein Powder,groceries,,2,19.99,39.98,7.59,36.95,131224.81,110543.89,2025-08-31
+CART-00156,156,156,milam,67,Mug Tree Stand,kitchen-accessories,,4,15.99,63.96,9.25,58.04,2643.86,2422.79,2025-09-13
+CART-00156,156,156,milam,112,TV Studio Camera Pedestal,mobile-accessories,ProVision,5,499.99,2499.95,8.31,2292.2,2643.86,2422.79,2025-03-03
+CART-00156,156,156,milam,67,Mug Tree Stand,kitchen-accessories,,5,15.99,79.95,9.25,72.55,2643.86,2422.79,2025-10-12
+CART-00157,157,157,aaronc,74,Spoon,kitchen-accessories,,1,4.99,4.99,1.53,4.91,6.98,6.65,2025-09-23
+CART-00157,157,157,aaronc,16,Apple,groceries,,1,1.99,1.99,12.62,1.74,6.98,6.65,2025-05-07
+CART-00158,158,158,aubreyb,13,Bedside Table African Cherry,furniture,Furniture Co.,1,299.99,299.99,19.09,242.72,1169.89,1079.68,2025-07-03
+CART-00158,158,158,aubreyb,44,Family Tree Photo Frame,home-decoration,,1,29.99,29.99,14.87,25.53,1169.89,1079.68,2025-12-16
+CART-00158,158,158,aubreyb,6,Calvin Klein CK One,fragrances,Calvin Klein,5,49.99,249.95000000000002,1.89,245.23,1169.89,1079.68,2025-08-22
+CART-00158,158,158,aubreyb,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,1,499.99,499.99,2.01,489.94,1169.89,1079.68,2025-10-27
+CART-00158,158,158,aubreyb,182,Green Crystal Earring,womens-jewellery,,3,29.99,89.97,15.24,76.26,1169.89,1079.68,2025-06-26
+CART-00159,159,159,eliw,68,Pan,kitchen-accessories,,5,24.99,124.94999999999999,3.0,121.2,451.84,396.92,2025-02-12
+CART-00159,159,159,eliw,105,Apple MagSafe Battery Pack,mobile-accessories,Apple,1,99.99,99.99,17.17,82.82,451.84,396.92,2025-02-05
+CART-00159,159,159,eliw,164,Gray Dress,tops,,3,34.99,104.97,14.28,89.98,451.84,396.92,2025-02-14
+CART-00159,159,159,eliw,119,Olay Ultra Moisture Shea Butter Body Wash,skin-care,Olay,4,12.99,51.96,16.39,43.44,451.84,396.92,2025-09-11
+CART-00159,159,159,eliw,148,Golf Ball,sports-accessories,,2,9.99,19.98,17.37,16.51,451.84,396.92,2025-06-09
+CART-00159,159,159,eliw,56,Electric Stove,kitchen-accessories,,1,49.99,49.99,14.04,42.97,451.84,396.92,2025-05-16
+CART-00160,160,160,claires,66,Microwave Oven,kitchen-accessories,,1,89.99,89.99,12.13,79.07,164.96,142.66,2025-12-05
+CART-00160,160,160,claires,183,Green Oval Earring,womens-jewellery,,3,24.99,74.97,15.18,63.59,164.96,142.66,2025-04-26
+CART-00161,161,161,jamesgx,172,Blue Women's Handbag,womens-bags,Fashionista,5,49.99,249.95000000000002,17.88,205.26,2339.82,2168.95,2025-03-28
+CART-00161,161,161,jamesgx,156,Green and Black Glasses,sunglasses,Fashion Shades,4,34.99,139.96,1.01,138.55,2339.82,2168.95,2025-06-16
+CART-00161,161,161,jamesgx,159,iPad Mini 2021 Starlight,tablets,Apple,3,499.99,1499.97,3.64,1445.37,2339.82,2168.95,2025-08-10
+CART-00161,161,161,jamesgx,105,Apple MagSafe Battery Pack,mobile-accessories,Apple,4,99.99,399.96,17.17,331.29,2339.82,2168.95,2025-09-17
+CART-00161,161,161,jamesgx,68,Pan,kitchen-accessories,,2,24.99,49.98,3.0,48.48,2339.82,2168.95,2025-10-15
+CART-00162,162,162,mateob,151,Tennis Ball,sports-accessories,,4,6.99,27.96,11.76,24.67,3236.87,2982.32,2025-06-19
+CART-00162,162,162,mateob,118,Attitude Super Leaves Hand Soap,skin-care,Attitude,1,8.99,8.99,18.49,7.33,3236.87,2982.32,2025-06-15
+CART-00162,162,162,mateob,112,TV Studio Camera Pedestal,mobile-accessories,ProVision,4,499.99,1999.96,8.31,1833.76,3236.87,2982.32,2025-12-03
+CART-00162,162,162,mateob,129,Realme X,smartphones,Realme,4,299.99,1199.96,6.95,1116.56,3236.87,2982.32,2025-09-10
+CART-00163,163,163,julianj,51,Boxed Blender,kitchen-accessories,,2,39.99,79.98,7.26,74.17,1494.86,1248.15,2025-07-26
+CART-00163,163,163,julianj,33,Mulberry,groceries,,3,4.99,14.97,12.87,13.04,1494.86,1248.15,2025-06-10
+CART-00163,163,163,julianj,13,Bedside Table African Cherry,furniture,Furniture Co.,3,299.99,899.97,19.09,728.17,1494.86,1248.15,2025-04-01
+CART-00163,163,163,julianj,8,Dior J'adore,fragrances,Dior,5,89.99,449.95,14.72,383.72,1494.86,1248.15,2025-04-11
+CART-00163,163,163,julianj,6,Calvin Klein CK One,fragrances,Calvin Klein,1,49.99,49.99,1.89,49.05,1494.86,1248.15,2025-08-26
+CART-00164,164,164,addisonf,27,Honey Jar,groceries,,4,6.99,27.96,14.4,23.93,227.88,195.93,2025-04-23
+CART-00164,164,164,addisonf,61,Hand Blender,kitchen-accessories,,4,34.99,139.96,17.02,116.14,227.88,195.93,2025-12-19
+CART-00164,164,164,addisonf,46,Plant Pot,home-decoration,,4,14.99,59.96,6.84,55.86,227.88,195.93,2025-06-28
+CART-00165,165,165,leor,46,Plant Pot,home-decoration,,1,14.99,14.99,6.84,13.96,20196.86,17751.61,2025-06-29
+CART-00165,165,165,leor,109,Monopod,mobile-accessories,TechGear,2,19.99,39.98,8.58,36.55,20196.86,17751.61,2025-07-29
+CART-00165,165,165,leor,76,Wooden Rolling Pin,kitchen-accessories,,1,11.99,11.99,9.75,10.82,20196.86,17751.61,2025-10-30
+CART-00165,165,165,leor,189,Red Shoes,womens-shoes,Fashion Express,2,34.99,69.98,17.69,57.6,20196.86,17751.61,2025-07-15
+CART-00165,165,165,leor,73,Spice Rack,kitchen-accessories,,3,19.99,59.97,12.09,52.72,20196.86,17751.61,2025-04-19
+CART-00165,165,165,leor,113,Generic Motorcycle,motorcycle,Generic Motors,5,3999.99,19999.949999999997,12.1,17579.96,20196.86,17751.61,2025-03-21
+CART-00166,166,166,elenam,175,White Faux Leather Backpack,womens-bags,Urban Chic,2,39.99,79.98,15.2,67.82,129.97,108.97,2025-08-15
+CART-00166,166,166,elenam,180,Dress Pea,womens-dresses,,1,49.99,49.99,17.68,41.15,129.97,108.97,2025-10-18
+CART-00167,167,167,evanw,191,Rolex Cellini Moonphase,womens-watches,Rolex,3,15999.99,47999.97,4.11,46027.17,48201.41,46202.72,2025-12-03
+CART-00167,167,167,evanw,21,Cucumber,groceries,,1,1.49,1.49,0.16,1.49,48201.41,46202.72,2025-03-07
+CART-00167,167,167,evanw,166,Tartan Dress,tops,,5,39.99,199.95000000000002,12.95,174.06,48201.41,46202.72,2025-08-09
+CART-00168,168,168,lunah,52,Carbon Steel Wok,kitchen-accessories,,2,29.99,59.98,6.53,56.06,99.94,91.93,2025-05-18
+CART-00168,168,168,lunah,50,Black Whisk,kitchen-accessories,,4,9.99,39.96,10.24,35.87,99.94,91.93,2025-06-18
+CART-00169,169,169,jaxonb,193,Watch Gold for Women,womens-watches,Fashion Gold,1,799.99,799.99,18.34,653.27,36799.95,33456.43,2025-03-02
+CART-00169,169,169,jaxonb,95,Rolex Cellini Date Black Dial,mens-watches,Rolex,4,8999.99,35999.96,8.88,32803.16,36799.95,33456.43,2025-06-13
+CART-00170,170,170,penelopet,8,Dior J'adore,fragrances,Dior,1,89.99,89.99,14.72,76.74,1829.86,1512.89,2025-05-17
+CART-00170,170,170,penelopet,126,Oppo F19 Pro Plus,smartphones,Oppo,4,399.99,1599.96,18.64,1301.73,1829.86,1512.89,2025-08-16
+CART-00170,170,170,penelopet,59,Glass,kitchen-accessories,,5,4.99,24.950000000000003,7.92,22.97,1829.86,1512.89,2025-05-15
+CART-00170,170,170,penelopet,9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,1,69.99,69.99,0.62,69.56,1829.86,1512.89,2025-03-16
+CART-00170,170,170,penelopet,46,Plant Pot,home-decoration,,3,14.99,44.97,6.84,41.89,1829.86,1512.89,2025-10-07
+CART-00171,171,171,connorb,166,Tartan Dress,tops,,5,39.99,199.95000000000002,12.95,174.06,219.94,191.81,2025-11-17
+CART-00171,171,171,connorb,157,Party Glasses,sunglasses,Fashion Fun,1,19.99,19.99,11.22,17.75,219.94,191.81,2025-05-18
+CART-00172,172,172,arianaw,24,Fish Steak,groceries,,5,14.99,74.95,4.23,71.78,574.89,495.78,2025-04-30
+CART-00172,172,172,arianaw,1,Essence Mascara Lash Princess,beauty,Essence,2,9.99,19.98,10.48,17.89,574.89,495.78,2025-06-19
+CART-00172,172,172,arianaw,8,Dior J'adore,fragrances,Dior,1,89.99,89.99,14.72,76.74,574.89,495.78,2025-03-15
+CART-00172,172,172,arianaw,100,Apple Airpods,mobile-accessories,Apple,3,129.99,389.97,15.54,329.37,574.89,495.78,2025-10-15
+CART-00173,173,173,ashers,191,Rolex Cellini Moonphase,womens-watches,Rolex,1,15999.99,15999.99,4.11,15342.39,17785.88,16911.51,2025-03-05
+CART-00173,173,173,ashers,106,Apple Watch Series 4 Gold,mobile-accessories,Apple,5,349.99,1749.95,12.02,1539.61,17785.88,16911.51,2025-05-18
+CART-00173,173,173,ashers,63,Kitchen Sieve,kitchen-accessories,,4,7.99,31.96,18.91,25.92,17785.88,16911.51,2025-05-31
+CART-00173,173,173,ashers,37,Red Onions,groceries,,2,1.99,3.98,9.9,3.59,17785.88,16911.51,2025-10-22
+CART-00174,174,174,sadiep,158,Sunglasses,sunglasses,Fashion Shades,4,22.99,91.96,1.51,90.57,752.77,701.39,2025-08-23
+CART-00174,174,174,sadiep,90,Puma Future Rider Trainers,mens-shoes,Puma,5,89.99,449.95,4.2,431.05,752.77,701.39,2025-11-21
+CART-00174,174,174,sadiep,54,Citrus Squeezer Yellow,kitchen-accessories,,4,8.99,35.96,12.1,31.61,752.77,701.39,2025-07-25
+CART-00174,174,174,sadiep,27,Honey Jar,groceries,,3,6.99,20.97,14.4,17.95,752.77,701.39,2025-07-24
+CART-00174,174,174,sadiep,83,Blue & Black Check Shirt,mens-shirts,Fashion Trends,5,29.99,149.95,15.35,126.93,752.77,701.39,2025-01-12
+CART-00174,174,174,sadiep,39,Soft Drinks,groceries,,2,1.99,3.98,17.48,3.28,752.77,701.39,2025-10-09
+CART-00175,175,175,gabrielm,128,Realme C35,smartphones,Realme,1,149.99,149.99,15.3,127.04,349.97,302.88,2025-06-18
+CART-00175,175,175,gabrielm,99,Amazon Echo Plus,mobile-accessories,Amazon,2,99.99,199.98,12.07,175.84,349.97,302.88,2025-12-12
+CART-00176,176,176,aaliyaha,152,Tennis Racket,sports-accessories,,5,49.99,249.95000000000002,19.61,200.93,269.93,218.17,2025-07-29
+CART-00176,176,176,aaliyaha,19,Chicken Meat,groceries,,2,9.99,19.98,13.7,17.24,269.93,218.17,2025-06-22
+CART-00177,177,177,xavierw,179,Corset With Black Skirt,womens-dresses,,5,79.99,399.95,15.06,339.72,2399.91,2299.48,2025-02-18
+CART-00177,177,177,xavierw,14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,4,499.99,1999.96,2.01,1959.76,2399.91,2299.48,2025-12-14
+CART-00178,178,178,savannahe,4,Red Lipstick,beauty,Chic Cosmetics,2,12.99,25.98,12.16,22.82,6785.79,5846.4,2025-09-11
+CART-00178,178,178,savannahe,43,Decoration Swing,home-decoration,,4,59.99,239.96,10.41,214.98,6785.79,5846.4,2025-12-14
+CART-00178,178,178,savannahe,93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,3,89.99,269.96999999999997,5.99,253.8,6785.79,5846.4,2025-11-21
+CART-00178,178,178,savannahe,128,Realme C35,smartphones,Realme,5,149.99,749.95,15.3,635.21,6785.79,5846.4,2025-12-08
+CART-00178,178,178,savannahe,99,Amazon Echo Plus,mobile-accessories,Amazon,5,99.99,499.95,12.07,439.61,6785.79,5846.4,2025-10-07
+CART-00178,178,178,savannahe,12,Annibale Colombo Sofa,furniture,Annibale Colombo,2,2499.99,4999.98,14.4,4279.98,6785.79,5846.4,2025-09-22
+CART-00179,179,179,tylerd,100,Apple Airpods,mobile-accessories,Apple,2,129.99,259.98,15.54,219.58,27567.34,25098.32,2025-04-18
+CART-00179,179,179,tylerd,83,Blue & Black Check Shirt,mens-shirts,Fashion Trends,4,29.99,119.96,15.35,101.55,27567.34,25098.32,2025-08-06
+CART-00179,179,179,tylerd,95,Rolex Cellini Date Black Dial,mens-watches,Rolex,3,8999.99,26999.97,8.88,24602.37,27567.34,25098.32,2025-06-30
+CART-00179,179,179,tylerd,32,Milk,groceries,,3,3.49,10.47,13.74,9.03,27567.34,25098.32,2025-11-28
+CART-00179,179,179,tylerd,118,Attitude Super Leaves Hand Soap,skin-care,Attitude,3,8.99,26.97,18.49,21.98,27567.34,25098.32,2025-06-19
+CART-00179,179,179,tylerd,88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,1,149.99,149.99,4.12,143.81,27567.34,25098.32,2025-01-31
+CART-00180,180,180,auroran,26,Green Chili Pepper,groceries,,2,0.99,1.98,1.0,1.96,6.97,6.87,2025-07-24
+CART-00180,180,180,auroran,74,Spoon,kitchen-accessories,,1,4.99,4.99,1.53,4.91,6.97,6.87,2025-03-30
+CART-00181,181,181,brandonc,105,Apple MagSafe Battery Pack,mobile-accessories,Apple,2,99.99,199.98,17.17,165.64,4707.94,4138.32,2025-01-06
+CART-00181,181,181,brandonc,48,Bamboo Spatula,kitchen-accessories,,1,7.99,7.99,2.84,7.76,4707.94,4138.32,2025-05-17
+CART-00181,181,181,brandonc,82,New DELL XPS 13 9300 Laptop,laptops,Dell,3,1499.99,4499.97,11.89,3964.92,4707.94,4138.32,2025-10-14
+CART-00182,182,182,ellieh,69,Plate,kitchen-accessories,,3,3.99,11.97,7.31,11.09,3411.8,3195.45,2025-12-26
+CART-00182,182,182,ellieh,176,Women Handbag Black,womens-bags,Elegance Collection,2,59.99,119.98,11.63,106.03,3411.8,3195.45,2025-05-10
+CART-00182,182,182,ellieh,67,Mug Tree Stand,kitchen-accessories,,5,15.99,79.95,9.25,72.55,3411.8,3195.45,2025-03-08
+CART-00182,182,182,ellieh,133,Samsung Galaxy S10,smartphones,Samsung,3,699.99,2099.9700000000003,5.59,1982.58,3411.8,3195.45,2025-06-21
+CART-00182,182,182,ellieh,47,Table Lamp,home-decoration,,4,49.99,199.96,7.09,185.78,3411.8,3195.45,2025-10-24
+CART-00182,182,182,ellieh,129,Realme X,smartphones,Realme,3,299.99,899.97,6.95,837.42,3411.8,3195.45,2025-11-26
+CART-00183,183,183,cameronp,63,Kitchen Sieve,kitchen-accessories,,5,7.99,39.95,18.91,32.4,62954.84,59760.67,2025-11-10
+CART-00183,183,183,cameronp,64,Knife,kitchen-accessories,,1,14.99,14.99,18.86,12.16,62954.84,59760.67,2025-08-01
+CART-00183,183,183,cameronp,136,Vivo X21,smartphones,Vivo,5,499.99,2499.95,17.41,2064.71,62954.84,59760.67,2025-09-01
+CART-00183,183,183,cameronp,193,Watch Gold for Women,womens-watches,Fashion Gold,3,799.99,2399.9700000000003,18.34,1959.82,62954.84,59760.67,2025-09-05
+CART-00183,183,183,cameronp,167,300 Touring,vehicle,Chrysler,2,28999.99,57999.98,3.98,55691.58,62954.84,59760.67,2025-06-23
+CART-00184,184,184,nataliehx,98,Rolex Submariner Watch,mens-watches,Rolex,1,13999.99,13999.99,5.05,13292.99,14015.98,13307.5,2025-01-07
+CART-00184,184,184,nataliehx,67,Mug Tree Stand,kitchen-accessories,,1,15.99,15.99,9.25,14.51,14015.98,13307.5,2025-01-20
+CART-00185,185,185,henrya,33,Mulberry,groceries,,1,4.99,4.99,12.87,4.35,1404.95,1243.17,2025-04-23
+CART-00185,185,185,henrya,130,Realme XT,smartphones,Realme,4,349.99,1399.96,11.51,1238.82,1404.95,1243.17,2025-11-22
+CART-00186,186,186,harperbx,92,Sports Sneakers Off White Red,mens-shoes,Off White,3,109.99,329.96999999999997,0.04,329.84,364.92,359.72,2025-03-03
+CART-00186,186,186,harperbx,70,Red Tongs,kitchen-accessories,,5,6.99,34.95,14.52,29.88,364.92,359.72,2025-12-05
+CART-00187,187,187,zacharyl,12,Annibale Colombo Sofa,furniture,Annibale Colombo,4,2499.99,9999.96,14.4,8559.97,10844.88,9255.33,2025-05-18
+CART-00187,187,187,zacharyl,119,Olay Ultra Moisture Shea Butter Body Wash,skin-care,Olay,5,12.99,64.95,16.39,54.3,10844.88,9255.33,2025-06-17
+CART-00187,187,187,zacharyl,161,Samsung Galaxy Tab White,tablets,Samsung,2,349.99,699.98,18.2,572.58,10844.88,9255.33,2025-01-10
+CART-00187,187,187,zacharyl,10,Gucci Bloom Eau de,fragrances,Gucci,1,79.99,79.99,14.39,68.48,10844.88,9255.33,2025-04-18
+CART-00188,188,188,ariamx,184,Tropical Earring,womens-jewellery,,5,19.99,99.94999999999999,0.76,99.19,184.92,171.55,2025-08-23
+CART-00188,188,188,ariamx,166,Tartan Dress,tops,,1,39.99,39.99,12.95,34.81,184.92,171.55,2025-09-21
+CART-00188,188,188,ariamx,2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,1,19.99,19.99,18.19,16.35,184.92,171.55,2025-05-22
+CART-00188,188,188,ariamx,183,Green Oval Earring,womens-jewellery,,1,24.99,24.99,15.18,21.2,184.92,171.55,2025-11-15
+CART-00189,189,189,tristans,122,iPhone 6,smartphones,Apple,3,299.99,899.97,6.69,839.76,1289.92,1172.57,2025-11-19
+CART-00189,189,189,tristans,8,Dior J'adore,fragrances,Dior,4,89.99,359.96,14.72,306.97,1289.92,1172.57,2025-07-09
+CART-00189,189,189,tristans,108,iPhone 12 Silicone Case with MagSafe Plum,mobile-accessories,Apple,1,29.99,29.99,13.85,25.84,1289.92,1172.57,2025-02-10
+CART-00190,190,190,leahw,157,Party Glasses,sunglasses,Fashion Fun,4,19.99,79.96,11.22,70.99,56079.92,53242.95,2025-10-12
+CART-00190,190,190,leahw,98,Rolex Submariner Watch,mens-watches,Rolex,4,13999.99,55999.96,5.05,53171.96,56079.92,53242.95,2025-12-21
+CART-00191,191,191,laylab,7,Chanel Coco Noir Eau De,fragrances,Chanel,3,129.99,389.97,16.51,325.59,43489.89,36399.0,2025-04-07
+CART-00191,191,191,laylab,45,House Showpiece Plant,home-decoration,,2,39.99,79.98,7.46,74.01,43489.89,36399.0,2025-10-03
+CART-00191,191,191,laylab,96,Rolex Cellini Moonphase,mens-watches,Rolex,3,12999.99,38999.97,17.52,32167.18,43489.89,36399.0,2025-01-06
+CART-00191,191,191,laylab,184,Tropical Earring,womens-jewellery,,1,19.99,19.99,0.76,19.84,43489.89,36399.0,2025-02-18
+CART-00191,191,191,laylab,78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,2,1999.99,3999.98,4.69,3812.38,43489.89,36399.0,2025-03-21
+CART-00192,192,192,nolang,98,Rolex Submariner Watch,mens-watches,Rolex,5,13999.99,69999.95,5.05,66464.95,70627.3,67061.66,2025-06-18
+CART-00192,192,192,nolang,92,Sports Sneakers Off White Red,mens-shoes,Off White,3,109.99,329.96999999999997,0.04,329.84,70627.3,67061.66,2025-04-23
+CART-00192,192,192,nolang,28,Ice Cream,groceries,,5,5.49,27.450000000000003,8.69,25.06,70627.3,67061.66,2025-08-26
+CART-00192,192,192,nolang,1,Essence Mascara Lash Princess,beauty,Essence,3,9.99,29.97,10.48,26.83,70627.3,67061.66,2025-04-16
+CART-00192,192,192,nolang,43,Decoration Swing,home-decoration,,4,59.99,239.96,10.41,214.98,70627.3,67061.66,2025-11-07
+CART-00193,193,193,hazelc,26,Green Chili Pepper,groceries,,5,0.99,4.95,1.0,4.9,655.8,565.46,2025-12-11
+CART-00193,193,193,hazelc,100,Apple Airpods,mobile-accessories,Apple,4,129.99,519.96,15.54,439.16,655.8,565.46,2025-03-29
+CART-00193,193,193,hazelc,138,Baseball Ball,sports-accessories,,4,8.99,35.96,1.71,35.35,655.8,565.46,2025-12-28
+CART-00193,193,193,hazelc,2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,1,19.99,19.99,18.19,16.35,655.8,565.46,2025-06-08
+CART-00193,193,193,hazelc,149,Iron Golf,sports-accessories,,1,49.99,49.99,6.53,46.73,655.8,565.46,2025-02-13
+CART-00193,193,193,hazelc,59,Glass,kitchen-accessories,,5,4.99,24.950000000000003,7.92,22.97,655.8,565.46,2025-10-18
+CART-00194,194,194,braydenh,111,Selfie Stick Monopod,mobile-accessories,SnapTech,3,12.99,38.97,19.12,31.52,87090.9,83615.86,2025-08-02
+CART-00194,194,194,braydenh,167,300 Touring,vehicle,Chrysler,3,28999.99,86999.97,3.98,83537.37,87090.9,83615.86,2025-12-31
+CART-00194,194,194,braydenh,17,Beef Steak,groceries,,4,12.99,51.96,9.61,46.97,87090.9,83615.86,2025-09-25
+CART-00195,195,195,violeta,103,Apple HomePod Mini Cosmic Grey,mobile-accessories,Apple,4,99.99,399.96,18.1,327.57,44661.82,37543.81,2025-12-15
+CART-00195,195,195,violeta,100,Apple Airpods,mobile-accessories,Apple,1,129.99,129.99,15.54,109.79,44661.82,37543.81,2025-10-29
+CART-00195,195,195,violeta,192,Rolex Datejust Women,womens-watches,Rolex,4,10999.99,43999.96,15.94,36986.37,44661.82,37543.81,2025-10-14
+CART-00195,195,195,violeta,43,Decoration Swing,home-decoration,,1,59.99,59.99,10.41,53.75,44661.82,37543.81,2025-03-10
+CART-00195,195,195,violeta,60,Grater Black,kitchen-accessories,,4,10.99,43.96,3.56,42.4,44661.82,37543.81,2025-02-25
+CART-00195,195,195,violeta,27,Honey Jar,groceries,,4,6.99,27.96,14.4,23.93,44661.82,37543.81,2025-01-15
+CART-00196,196,196,lucasr,185,Black & Brown Slipper,womens-shoes,Comfort Trends,2,19.99,39.98,3.33,38.65,75209.82,70006.8,2025-05-19
+CART-00196,196,196,lucasr,1,Essence Mascara Lash Princess,beauty,Essence,5,9.99,49.95,10.48,44.72,75209.82,70006.8,2025-08-03
+CART-00196,196,196,lucasr,52,Carbon Steel Wok,kitchen-accessories,,2,29.99,59.98,6.53,56.06,75209.82,70006.8,2025-01-23
+CART-00196,196,196,lucasr,24,Fish Steak,groceries,,4,14.99,59.96,4.23,57.42,75209.82,70006.8,2025-04-05
+CART-00196,196,196,lucasr,115,MotoGP CI.H1,motorcycle,MotoGP,5,14999.99,74999.95,6.92,69809.95,75209.82,70006.8,2025-10-09
+CART-00197,197,197,eleanorw,18,Cat Food,groceries,,4,8.99,35.96,9.58,32.52,58063.93,55748.9,2025-09-20
+CART-00197,197,197,eleanorw,167,300 Touring,vehicle,Chrysler,2,28999.99,57999.98,3.98,55691.58,58063.93,55748.9,2025-04-29
+CART-00197,197,197,eleanorw,87,Men Check Shirt,mens-shirts,Urban Chic,1,27.99,27.99,11.38,24.8,58063.93,55748.9,2025-08-30
+CART-00198,198,198,maxp,39,Soft Drinks,groceries,,3,1.99,5.97,17.48,4.93,100565.86,92308.32,2025-12-03
+CART-00198,198,198,maxp,36,Protein Powder,groceries,,3,19.99,59.97,7.59,55.42,100565.86,92308.32,2025-12-06
+CART-00198,198,198,maxp,168,Charger SXT RWD,vehicle,Dodge,3,32999.99,98999.97,8.23,90852.27,100565.86,92308.32,2025-06-24
+CART-00198,198,198,maxp,129,Realme X,smartphones,Realme,5,299.99,1499.95,6.95,1395.7,100565.86,92308.32,2025-06-25
+CART-00199,199,199,viviang,98,Rolex Submariner Watch,mens-watches,Rolex,2,13999.99,27999.98,5.05,26585.98,28239.94,26800.96,2025-06-27
+CART-00199,199,199,viviang,43,Decoration Swing,home-decoration,,4,59.99,239.96,10.41,214.98,28239.94,26800.96,2025-06-12
+CART-00200,200,200,adrianf,87,Men Check Shirt,mens-shirts,Urban Chic,5,27.99,139.95,11.38,124.02,22694.77,21783.54,2025-11-07
+CART-00200,200,200,adrianf,187,Golden Shoes Woman,womens-shoes,Fashion Diva,3,49.99,149.97,13.93,129.08,22694.77,21783.54,2025-09-03
+CART-00200,200,200,adrianf,44,Family Tree Photo Frame,home-decoration,,3,29.99,89.97,14.87,76.59,22694.77,21783.54,2025-05-11
+CART-00200,200,200,adrianf,142,Cricket Ball,sports-accessories,,5,12.99,64.95,8.63,59.34,22694.77,21783.54,2025-09-08
+CART-00200,200,200,adrianf,187,Golden Shoes Woman,womens-shoes,Fashion Diva,5,49.99,249.95000000000002,13.93,215.13,22694.77,21783.54,2025-06-17
+CART-00200,200,200,adrianf,97,Rolex Datejust,mens-watches,Rolex,2,10999.99,21999.98,3.73,21179.38,22694.77,21783.54,2025-05-09
+CART-00201,201,201,mayah,86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,3,19.99,59.97,6.83,55.87,128096.37,109195.89,2025-01-19
+CART-00201,201,201,mayah,72,Slotted Turner,kitchen-accessories,,1,8.99,8.99,13.35,7.79,128096.37,109195.89,2025-11-26
+CART-00201,201,201,mayah,28,Ice Cream,groceries,,5,5.49,27.450000000000003,8.69,25.06,128096.37,109195.89,2025-09-08
+CART-00201,201,201,mayah,171,Pacifica Touring,vehicle,Chrysler,4,31999.99,127999.96,14.76,109107.17,128096.37,109195.89,2025-03-10
+CART-00202,202,202,calebn,112,TV Studio Camera Pedestal,mobile-accessories,ProVision,1,499.99,499.99,8.31,458.44,23114.79,20545.55,2025-01-12
+CART-00202,202,202,calebn,19,Chicken Meat,groceries,,5,9.99,49.95,13.7,43.11,23114.79,20545.55,2025-09-04
+CART-00202,202,202,calebn,65,Lunch Box,kitchen-accessories,,1,12.99,12.99,10.34,11.65,23114.79,20545.55,2025-07-07
+CART-00202,202,202,calebn,113,Generic Motorcycle,motorcycle,Generic Motors,5,3999.99,19999.949999999997,12.1,17579.96,23114.79,20545.55,2025-05-10
+CART-00202,202,202,calebn,159,iPad Mini 2021 Starlight,tablets,Apple,5,499.99,2499.95,3.64,2408.95,23114.79,20545.55,2025-08-27
+CART-00202,202,202,calebn,119,Olay Ultra Moisture Shea Butter Body Wash,skin-care,Olay,4,12.99,51.96,16.39,43.44,23114.79,20545.55,2025-04-12
+CART-00203,203,203,novab,158,Sunglasses,sunglasses,Fashion Shades,1,22.99,22.99,1.51,22.64,50.95,46.54,2025-07-08
+CART-00203,203,203,novab,70,Red Tongs,kitchen-accessories,,4,6.99,27.96,14.52,23.9,50.95,46.54,2025-05-21
+CART-00204,204,204,mateop,141,Basketball Rim,sports-accessories,,4,39.99,159.96,7.74,147.58,25591.84,23182.99,2025-09-20
+CART-00204,204,204,mateop,190,IWC Ingenieur Automatic Steel,womens-watches,IWC,4,4999.99,19999.96,9.45,18109.96,25591.84,23182.99,2025-07-24
+CART-00204,204,204,mateop,38,Rice,groceries,,2,5.99,11.98,9.29,10.87,25591.84,23182.99,2025-06-05
+CART-00204,204,204,mateop,176,Women Handbag Black,womens-bags,Elegance Collection,3,59.99,179.97,11.63,159.04,25591.84,23182.99,2025-04-22
+CART-00204,204,204,mateop,190,IWC Ingenieur Automatic Steel,womens-watches,IWC,1,4999.99,4999.99,9.45,4527.49,25591.84,23182.99,2025-10-25
+CART-00204,204,204,mateop,91,Sports Sneakers Off White & Red,mens-shoes,Off White,2,119.99,239.98,4.97,228.05,25591.84,23182.99,2025-01-28
+CART-00205,205,205,aubreyg,62,Ice Cube Tray,kitchen-accessories,,2,5.99,11.98,0.63,11.9,16011.94,14075.86,2025-07-30
+CART-00205,205,205,aubreyg,113,Generic Motorcycle,motorcycle,Generic Motors,4,3999.99,15999.96,12.1,14063.96,16011.94,14075.86,2025-02-03
+CART-00206,206,206,elenab,141,Basketball Rim,sports-accessories,,4,39.99,159.96,7.74,147.58,229.92,213.26,2025-11-27
+CART-00206,206,206,elenab,3,Powder Canister,beauty,Velvet Touch,2,14.99,29.98,9.84,27.03,229.92,213.26,2025-12-05
+CART-00206,206,206,elenab,185,Black & Brown Slipper,womens-shoes,Comfort Trends,2,19.99,39.98,3.33,38.65,229.92,213.26,2025-09-18
+CART-00207,207,207,jaces,137,American Football,sports-accessories,,2,19.99,39.98,4.93,38.01,22719.79,20090.11,2025-12-16
+CART-00207,207,207,jaces,146,Feather Shuttlecock,sports-accessories,,5,5.99,29.950000000000003,2.95,29.07,22719.79,20090.11,2025-09-30
+CART-00207,207,207,jaces,42,Water,groceries,,4,0.99,3.96,14.92,3.37,22719.79,20090.11,2025-06-02
+CART-00207,207,207,jaces,164,Gray Dress,tops,,4,34.99,139.96,14.28,119.97,22719.79,20090.11,2025-09-05
+CART-00207,207,207,jaces,117,Sportbike Motorcycle,motorcycle,SpeedMaster,3,7499.99,22499.97,11.58,19894.47,22719.79,20090.11,2025-11-12
+CART-00207,207,207,jaces,16,Apple,groceries,,3,1.99,5.97,12.62,5.22,22719.79,20090.11,2025-02-16
+CART-00208,208,208,samanthal,3,Powder Canister,beauty,Velvet Touch,3,14.99,44.97,9.84,40.54,304.95,260.12,2025-09-18
+CART-00208,208,208,samanthal,100,Apple Airpods,mobile-accessories,Apple,2,129.99,259.98,15.54,219.58,304.95,260.12,2025-09-25

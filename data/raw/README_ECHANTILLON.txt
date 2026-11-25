@@ -1,0 +1,1 @@
+ÉCHANTILLON HORS LIGNE MINIMAL ET PÉDAGOGIQUE. Ce n'est PAS l'extraction complète de DummyJSON. Lancez scripts/01_collecte_dummyjson.py pour télécharger les ressources complètes actuelles.

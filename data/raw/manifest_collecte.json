@@ -1,0 +1,72 @@
+{
+  "source": "https://dummyjson.com",
+  "collected_at_utc": "2026-11-25T09:35:55Z",
+  "note": "Instantané API. Les dates order_date des tables dérivées sont synthétiques et générées pour l'exercice.",
+  "resources": {
+    "products": {
+      "endpoint": "https://dummyjson.com/products?limit=0",
+      "total_api": 194,
+      "items_downloaded": 194,
+      "file": "data/raw/products.json"
+    },
+    "carts": {
+      "endpoint": "https://dummyjson.com/carts?limit=0",
+      "total_api": 208,
+      "items_downloaded": 208,
+      "file": "data/raw/carts.json"
+    },
+    "users": {
+      "endpoint": "https://dummyjson.com/users?limit=0",
+      "total_api": 208,
+      "items_downloaded": 208,
+      "file": "data/raw/users.json"
+    },
+    "posts": {
+      "endpoint": "https://dummyjson.com/posts?limit=0",
+      "total_api": 251,
+      "items_downloaded": 251,
+      "file": "data/raw/posts.json"
+    },
+    "comments": {
+      "endpoint": "https://dummyjson.com/comments?limit=0",
+      "total_api": 340,
+      "items_downloaded": 340,
+      "file": "data/raw/comments.json"
+    },
+    "recipes": {
+      "endpoint": "https://dummyjson.com/recipes?limit=0",
+      "total_api": 50,
+      "items_downloaded": 50,
+      "file": "data/raw/recipes.json"
+    },
+    "quotes": {
+      "endpoint": "https://dummyjson.com/quotes?limit=0",
+      "total_api": 1454,
+      "items_downloaded": 1454,
+      "file": "data/raw/quotes.json"
+    },
+    "todos": {
+      "endpoint": "https://dummyjson.com/todos?limit=0",
+      "total_api": 254,
+      "items_downloaded": 254,
+      "file": "data/raw/todos.json"
+    }
+  },
+  "derived_tables": {
+    "commandes_ecommerce.csv": {
+      "rows": 800,
+      "grain": "une ligne par produit dans un panier (ligne de panier)",
+      "warning": "DummyJSON carts représente des paniers de démonstration, pas des commandes historiques réelles. order_date est artificielle."
+    },
+    "produits.csv": {
+      "rows": 194
+    },
+    "paniers.csv": {
+      "rows": 208
+    },
+    "utilisateurs_reduits.csv": {
+      "rows": 208,
+      "warning": "Champs sensibles de démonstration exclus lorsque présents."
+    }
+  }
+}

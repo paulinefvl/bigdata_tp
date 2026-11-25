@@ -1,0 +1,4 @@
+order_id,cart_id,user_id,product_id,product_title,category,quantity,unit_price,line_total,discount_percentage,discounted_line_total,cart_total,order_date
+DEMO-0001,1,1,1,Essence Mascara Lash Princess,beauty,2,9.99,19.98,7.17,18.55,39.97,2025-01-01
+DEMO-0001,1,1,2,Eyeshadow Palette,beauty,1,19.99,19.99,5.0,18.99,39.97,2025-01-01
+DEMO-0002,2,2,3,Powder Canister,groceries,3,14.99,44.97,10.0,40.47,44.97,2025-01-01
